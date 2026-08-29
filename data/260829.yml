@@ -1,0 +1,63 @@
+about:
+  description: Autonomous coding agent as an SDK, IDE extension, or CLI assistant.
+  license: Apache-2.0
+  homepage: https://cline.bot
+  head: 1986fa5
+  archived: false
+  latestVersion: desktop-v0.0.20
+  collectedAt: 2026-08-29T05:58:07Z
+timeline:
+  created: 2024-07-06
+  lastCommit: 2026-08-29
+  lastRelease: 2026-08-28
+popularity:
+  star: 67099
+  watcher: 283
+  fork: 7243
+  release: 398
+  contributor: 332
+  pullRequest: 2864
+  issue: 4455
+language:
+  TypeScript: 24615192
+  JavaScript: 291415
+  CSS: 123507
+  Rust: 86116
+  HTML: 35842
+  Shell: 20605
+  Python: 7735
+  PowerShell: 7074
+totalLine: 25187486
+recent:
+  last30d:
+    since: 2026-07-30
+    release: 61
+    mergedPR: 340
+    openPR: 215
+    closedIssue: 80
+    openIssue: 154
+    commit: 392
+  last90d:
+    since: 2026-05-31
+    release: 100
+    mergedPR: 999
+    openPR: 399
+    closedIssue: 185
+    openIssue: 382
+    commit: 1160
+  last180d:
+    since: 2026-03-02
+    release: 100
+    mergedPR: 1340
+    openPR: 435
+    closedIssue: 419
+    openIssue: 626
+    commit: 2190
+  last360d:
+    since: 2025-09-03
+    release: 100
+    mergedPR: 2816
+    openPR: 453
+    closedIssue: 1478
+    openIssue: 681
+    commit: 3789
