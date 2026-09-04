@@ -1,23 +1,25 @@
 about:
-  description: Autonomous coding agent as an SDK, IDE extension, or CLI assistant.
+  description:
+  |
+    Autonomous coding agent as an SDK, IDE extension, or CLI assistant.
   license: Apache-2.0
   homepage: https://cline.bot
   head: 952df21
   archived: false
   latestVersion: desktop-v0.0.23
-  collectedAt: 2026-09-04T03:17:16Z
+  collectedAt: 2026-09-04T19:20:06Z
 timeline:
   created: 2024-07-06
   lastCommit: 2026-09-03
   lastRelease: 2026-09-03
 popularity:
-  star: 67434
+  star: 67479
   watcher: 288
-  fork: 7280
+  fork: 7281
   release: 407
   contributor: 332
-  pullRequest: 2903
-  issue: 4502
+  pullRequest: 7545
+  issue: 4505
 language:
   TypeScript: 25138662
   JavaScript: 292743
@@ -27,37 +29,63 @@ language:
   Shell: 26817
   Python: 7735
   PowerShell: 7074
-totalLine: 25720148
+totalBytes: 25720148
 recent:
   last30d:
     since: 2026-08-05
     release: 60
     mergedPR: 282
-    openPR: 212
+    openPR: 221
     closedIssue: 66
-    openIssue: 171
+    openIssue: 174
     commit: 309
+  last60d:
+    since: 2026-07-06
+    release: 99
+    mergedPR: 681
+    openPR: 360
+    closedIssue: 122
+    openIssue: 285
+    commit: 738
   last90d:
     since: 2026-06-06
     release: 100
     mergedPR: 986
-    openPR: 418
+    openPR: 427
     closedIssue: 183
-    openIssue: 399
+    openIssue: 402
     commit: 1102
   last180d:
     since: 2026-03-08
     release: 100
     mergedPR: 1364
-    openPR: 464
-    closedIssue: 414
-    openIssue: 653
+    openPR: 473
+    closedIssue: 416
+    openIssue: 654
     commit: 2141
   last360d:
     since: 2025-09-09
     release: 100
     mergedPR: 2804
-    openPR: 484
-    closedIssue: 1448
-    openIssue: 713
+    openPR: 493
+    closedIssue: 1450
+    openIssue: 714
     commit: 3760
+  last720d:
+    since: 2024-09-14
+    release: 100
+    mergedPR: 4627
+    openPR: 493
+    closedIssue: 3527
+    openIssue: 720
+    commit: 6684
+total:
+  release: 407
+  mergedPR: 4632
+  openPR: 493
+  closedIssue: 3785
+  openIssue: 720
+  commit: 7205
+---
+---
+
