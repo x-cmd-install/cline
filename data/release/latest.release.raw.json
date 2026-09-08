@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 76295227,
       "digest": "sha256:4f32107d95ba088ba6033aa1213deb49a285a445ff3fc9ee954ce6a6ee7515da",
-      "download_count": 92,
+      "download_count": 104,
       "created_at": "2026-09-03T18:33:14Z",
       "updated_at": "2026-09-03T18:33:16Z",
       "browser_download_url": "https://github.com/cline/cline/releases/download/desktop-v0.0.23/Cline_0.0.23_universal.app.tar.gz"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 404,
       "digest": "sha256:312741bdd8cc5c194a0a683f7115c28b5b941a0598f4415510719e2f25ee3a15",
-      "download_count": 10,
+      "download_count": 13,
       "created_at": "2026-09-03T18:33:14Z",
       "updated_at": "2026-09-03T18:33:14Z",
       "browser_download_url": "https://github.com/cline/cline/releases/download/desktop-v0.0.23/Cline_0.0.23_universal.app.tar.gz.sig"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 76934179,
       "digest": "sha256:72198a8ace628de0ac5337661383120e693f0e926820f3414650ff0982af9a50",
-      "download_count": 66,
+      "download_count": 82,
       "created_at": "2026-09-03T18:33:14Z",
       "updated_at": "2026-09-03T18:33:16Z",
       "browser_download_url": "https://github.com/cline/cline/releases/download/desktop-v0.0.23/Cline_0.0.23_universal.dmg"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 37709640,
       "digest": "sha256:507b88bd538588131d7213e14a6548b178e75a64f0acbf2b10428e48300502ad",
-      "download_count": 492,
+      "download_count": 538,
       "created_at": "2026-09-03T18:33:14Z",
       "updated_at": "2026-09-03T18:33:15Z",
       "browser_download_url": "https://github.com/cline/cline/releases/download/desktop-v0.0.23/Cline_0.0.23_x64-setup.exe"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 416,
       "digest": "sha256:114adfd28cc4926fda9c5c1fe9f600a2ac01ba36c578ac77a3eb5569d51ac1aa",
-      "download_count": 14,
+      "download_count": 21,
       "created_at": "2026-09-03T18:33:14Z",
       "updated_at": "2026-09-03T18:33:14Z",
       "browser_download_url": "https://github.com/cline/cline/releases/download/desktop-v0.0.23/Cline_0.0.23_x64-setup.exe.sig"
