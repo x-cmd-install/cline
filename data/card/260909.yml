@@ -2,105 +2,105 @@ about:
   description: "Autonomous coding agent as an SDK, IDE extension, or CLI assistant."
   license: Apache-2.0
   homepage: https://cline.bot
-  head: b18de09
+  head: 194214a
   archived: false
-  latestVersion: "desktop-v0.0.23"
-  latestRelease: "desktop-v0.0.23"
+  latestVersion: "desktop-v0.0.24"
+  latestRelease: "desktop-v0.0.24"
   latestPrerelease: "desktop-v0.0.23-beta.1"
-  collectedAt: 2026-09-09T05:50:44Z
+  collectedAt: 2026-09-09T20:34:40Z
 timeline:
   created: 2024-07-06
   lastCommit: 2026-09-09
-  lastVersion: 2026-09-03
-  lastRelease: 2026-09-03
+  lastVersion: 2026-09-09
+  lastRelease: 2026-09-09
   lastPrerelease: 2026-09-03
 popularity:
-  star: 67698
-  watcher: 289
-  fork: 7312
-  release: 407
+  star: 67735
+  watcher: 288
+  fork: 7318
+  release: 408
   contributor: 332
-  pullRequest: 7636
-  issue: 4539
+  pullRequest: 7647
+  issue: 4545
 language:
-  TypeScript: 25351691
+  TypeScript: 25364632
   JavaScript: 294232
   CSS: 124349
-  Rust: 91152
+  Rust: 91172
   HTML: 35842
   Shell: 26817
   Python: 7735
   PowerShell: 7074
-totalBytes: 25938892
+totalBytes: 25951853
 recent:
   last30d:
     since: 2026-08-10
-    release: 47
-    mergedPR: 271
-    openPR: 215
-    closedIssue: 42
-    openIssue: 185
-    commit: 247
+    release: 48
+    mergedPR: 274
+    openPR: 221
+    closedIssue: 43
+    openIssue: 190
+    commit: 254
   last60d:
     since: 2026-07-11
-    release: 96
-    mergedPR: 672
-    openPR: 374
-    closedIssue: 119
-    openIssue: 292
-    commit: 708
+    release: 97
+    mergedPR: 675
+    openPR: 380
+    closedIssue: 120
+    openIssue: 297
+    commit: 715
   last90d:
     since: 2026-06-11
     release: 100
-    mergedPR: 980
-    openPR: 444
-    closedIssue: 177
-    openIssue: 409
-    commit: 1042
+    mergedPR: 983
+    openPR: 450
+    closedIssue: 178
+    openIssue: 414
+    commit: 1049
   last180d:
     since: 2026-03-13
     release: 100
-    mergedPR: 1381
-    openPR: 503
-    closedIssue: 413
-    openIssue: 677
-    commit: 2133
+    mergedPR: 1384
+    openPR: 509
+    closedIssue: 416
+    openIssue: 680
+    commit: 2140
   last360d:
     since: 2025-09-14
     release: 100
-    mergedPR: 2806
-    openPR: 524
-    closedIssue: 1427
-    openIssue: 741
-    commit: 3720
+    mergedPR: 2809
+    openPR: 530
+    closedIssue: 1431
+    openIssue: 743
+    commit: 3727
   last720d:
     since: 2024-09-19
     release: 100
-    mergedPR: 4671
-    openPR: 524
-    closedIssue: 3506
-    openIssue: 747
-    commit: 6655
+    mergedPR: 4674
+    openPR: 530
+    closedIssue: 3510
+    openIssue: 749
+    commit: 6662
 total:
-  release: 407
-  mergedPR: 4676
-  openPR: 524
-  closedIssue: 3792
-  openIssue: 747
-  commit: 7235
+  release: 408
+  mergedPR: 4679
+  openPR: 530
+  closedIssue: 3796
+  openIssue: 749
+  commit: 7242
 ---
 path: /home/runner/.x-repo/github.com/cline/cline
-collectedAt: 2026-09-09T05:51:13Z
+collectedAt: 2026-09-09T20:35:25Z
 loc:
   TypeScript:
-    code: 639325
-    comments: 38243
-    blanks: 45005
+    code: 639341
+    comments: 38282
+    blanks: 45006
     files: 2307
   Tsx:
-    code: 151094
-    comments: 4474
-    blanks: 13274
+    code: 151355
+    comments: 4497
+    blanks: 13292
     files: 691
   Json:
     code: 32355
@@ -169,7 +169,7 @@ loc:
     files: 4
   Markdown:
     code: 0
-    comments: 11471
+    comments: 11473
     blanks: 3887
     files: 103
   Text:
@@ -178,9 +178,9 @@ loc:
     blanks: 5
     files: 5
 total:
-  code: 842221
-  comments: 56500
-  blanks: 64399
+  code: 842498
+  comments: 56564
+  blanks: 64418
   files: 3422
 ---
 
