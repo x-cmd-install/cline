@@ -2,105 +2,105 @@ about:
   description: "Autonomous coding agent as an SDK, IDE extension, or CLI assistant."
   license: Apache-2.0
   homepage: https://cline.bot
-  head: e4f1df2
+  head: 7e20bbc
   archived: false
-  latestVersion: "desktop-v0.0.25"
-  latestRelease: "desktop-v0.0.25"
+  latestVersion: "desktop-v0.0.26"
+  latestRelease: "desktop-v0.0.26"
   latestPrerelease: "desktop-v0.0.23-beta.1"
-  collectedAt: 2026-09-11T05:45:32Z
+  collectedAt: 2026-09-11T19:05:52Z
 timeline:
   created: 2024-07-06
   lastCommit: 2026-09-11
-  lastVersion: 2026-09-10
-  lastRelease: 2026-09-10
+  lastVersion: 2026-09-11
+  lastRelease: 2026-09-11
   lastPrerelease: 2026-09-03
 popularity:
-  star: 67813
+  star: 67847
   watcher: 287
-  fork: 7325
-  release: 409
+  fork: 7330
+  release: 410
   contributor: 333
-  pullRequest: 7687
-  issue: 4558
+  pullRequest: 7693
+  issue: 4565
 language:
-  TypeScript: 25659945
+  TypeScript: 25661364
   JavaScript: 294232
-  CSS: 124349
+  CSS: 124369
   Rust: 91172
   HTML: 35842
   Shell: 26817
   Python: 7735
   PowerShell: 7074
   NSIS: 1406
-totalBytes: 26248572
+totalBytes: 26250011
 recent:
   last30d:
     since: 2026-08-12
-    release: 46
-    mergedPR: 281
+    release: 47
+    mergedPR: 286
     openPR: 217
-    closedIssue: 44
-    openIssue: 186
-    commit: 284
+    closedIssue: 45
+    openIssue: 192
+    commit: 289
   last60d:
     since: 2026-07-13
-    release: 97
-    mergedPR: 694
+    release: 98
+    mergedPR: 699
     openPR: 380
-    closedIssue: 125
-    openIssue: 294
-    commit: 745
+    closedIssue: 126
+    openIssue: 300
+    commit: 750
   last90d:
     since: 2026-06-13
     release: 100
-    mergedPR: 994
+    mergedPR: 999
     openPR: 449
-    closedIssue: 184
-    openIssue: 412
-    commit: 1079
+    closedIssue: 185
+    openIssue: 418
+    commit: 1084
   last180d:
     since: 2026-03-15
     release: 100
-    mergedPR: 1411
+    mergedPR: 1416
     openPR: 513
-    closedIssue: 417
-    openIssue: 684
-    commit: 2170
+    closedIssue: 421
+    openIssue: 687
+    commit: 2175
   last360d:
     since: 2025-09-16
     release: 100
-    mergedPR: 2816
+    mergedPR: 2821
     openPR: 533
-    closedIssue: 1424
-    openIssue: 749
-    commit: 3757
+    closedIssue: 1428
+    openIssue: 752
+    commit: 3762
   last720d:
     since: 2024-09-21
     release: 100
-    mergedPR: 4704
+    mergedPR: 4709
     openPR: 533
-    closedIssue: 3509
-    openIssue: 755
-    commit: 6669
+    closedIssue: 3513
+    openIssue: 758
+    commit: 6674
 total:
-  release: 409
-  mergedPR: 4709
+  release: 410
+  mergedPR: 4714
   openPR: 533
-  closedIssue: 3803
-  openIssue: 755
-  commit: 7272
+  closedIssue: 3807
+  openIssue: 758
+  commit: 7277
 ---
 path: /home/runner/.x-repo/github.com/cline/cline
-collectedAt: 2026-09-11T05:45:57Z
+collectedAt: 2026-09-11T19:06:27Z
 loc:
   TypeScript:
-    code: 648414
-    comments: 38528
-    blanks: 45158
+    code: 648459
+    comments: 38544
+    blanks: 45165
     files: 2324
   Tsx:
-    code: 152965
-    comments: 4522
+    code: 152929
+    comments: 4520
     blanks: 13360
     files: 695
   Json:
@@ -114,8 +114,8 @@ loc:
     blanks: 616
     files: 44
   Css:
-    code: 3715
-    comments: 302
+    code: 3713
+    comments: 303
     blanks: 414
     files: 28
   Protobuf:
@@ -170,8 +170,8 @@ loc:
     files: 4
   Markdown:
     code: 0
-    comments: 11571
-    blanks: 3906
+    comments: 11590
+    blanks: 3908
     files: 103
   Text:
     code: 0
@@ -179,11 +179,11 @@ loc:
     blanks: 5
     files: 5
 total:
-  code: 853194
-  comments: 56933
-  blanks: 64657
+  code: 853201
+  comments: 56967
+  blanks: 64666
   files: 3443
 ---
 
 ---
-{"id":386015229,"author":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOMSqWwc4XAh_9","tag_name":"desktop-v0.0.25","target_commitish":"main","name":"Desktop v0.0.25","draft":false,"immutable":false,"prerelease":false,"created_at":"2026-09-10T04:39:15Z","updated_at":"2026-09-10T04:57:18Z","published_at":"2026-09-10T04:57:15Z","assets":[{"id":554276476,"node_id":"RA_kwDOMSqWwc4hCZZ8","name":"Cline_0.0.25_universal.app.tar.gz","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/gzip","state":"uploaded","size":76395027,"digest":"sha256:717095e0035da2d9e8a18845166fc43ffb4b7c1d8544e6508d120baa0110d5de","download_count":106,"created_at":"2026-09-10T04:57:15Z","updated_at":"2026-09-10T04:57:18Z"},{"id":554276481,"node_id":"RA_kwDOMSqWwc4hCZaB","name":"Cline_0.0.25_universal.app.tar.gz.sig","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/pgp-signature","state":"uploaded","size":404,"digest":"sha256:c55f43487565d4a8bada2cc62e98b66f41c436d812731bf02b0bf43013fa0e38","download_count":6,"created_at":"2026-09-10T04:57:16Z","updated_at":"2026-09-10T04:57:16Z"},{"id":554276475,"node_id":"RA_kwDOMSqWwc4hCZZ7","name":"Cline_0.0.25_universal.dmg","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":77048611,"digest":"sha256:03ba9058117eb87e67cc78c184919d1f86615401f5c141d9457bc136bf82404f","download_count":40,"created_at":"2026-09-10T04:57:15Z","updated_at":"2026-09-10T04:57:18Z"},{"id":554276477,"node_id":"RA_kwDOMSqWwc4hCZZ9","name":"Cline_0.0.25_x64-setup.exe","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":37755736,"digest":"sha256:3f78287c2347a0da0dcae3f3eed1c35b8b511a0df11729acaace69cb9957a1a6","download_count":364,"created_at":"2026-09-10T04:57:15Z","updated_at":"2026-09-10T04:57:17Z"},{"id":554276479,"node_id":"RA_kwDOMSqWwc4hCZZ_","name":"Cline_0.0.25_x64-setup.exe.sig","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/pgp-signature","state":"uploaded","size":416,"digest":"sha256:e61fc7bdf87ccbaea9dcd8c2ecc1cf492611fc7f1666bc33afcb481db642a2d5","download_count":8,"created_at":"2026-09-10T04:57:15Z","updated_at":"2026-09-10T04:57:16Z"},{"id":554276478,"node_id":"RA_kwDOMSqWwc4hCZZ-","name":"latest.json","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/json","state":"uploaded","size":5067,"digest":"sha256:57b33a98b19a315f2689f4bc967f8b294779e98a76e86f95292e90d5ac3ffe26","download_count":9,"created_at":"2026-09-10T04:57:15Z","updated_at":"2026-09-10T04:57:16Z"}],"body":"\n- ChatGPT Subscription (Codex) now lists only the models your plan can actually use. Two separate paths filled the picker from the shared OpenAI catalog, so GPT-4o, GPT-4.1, and `chatgpt-image-latest` showed up alongside the Codex models, and the runtime lost the Codex context caps. The model rules also match what the backend now accepts: `gpt-5.4` and `gpt-5.4-mini` were retired for ChatGPT accounts on 2026-08-31 and are gone, the default moves to `gpt-5.6-terra`, and every Codex model is capped at the real 400K/272K/128K backend budget instead of inheriting the API's 1.05M limits\n- Windows updates no longer fail with \"Error opening file for writing\". The compiled sidecar re-executes itself as the detached Cline Hub daemon, which outlives the app by design, and Tauri's NSIS installer only kills the main binary \u2014 so the daemon still held `code-sidecar.exe` and the install stopped until you killed the process by hand. The installer now stops it first, matched on the full path so updating one channel does not take down a side-by-side Cline Beta's sessions\n- Your prompt is no longer lost when a send fails before the turn starts \u2014 switching to Codex and having the OAuth refresh throw, for instance. The runtime never took the prompt, so post-send hydration wiped the optimistic bubble and you had to retype it. The text and attachments now come back to the composer, merged with anything you attached while the send was pending, and left alone if you have already started typing something else\n- Providers that authenticate through a local CLI \u2014 Claude Code, Codex CLI \u2014 can now start sessions without an API key. They showed as Configured in Settings via their local-auth capability, but session start still refused them with \"Missing API key\"\n- OpenCode is now treated as a local CLI provider rather than an OAuth one, so it shows the local CLI notice instead of a browser sign-in button that could not do anything. It authenticates from the credentials the opencode CLI itself stores\n- Session import from Claude Code, Codex, and opencode has its own page in Settings instead of a row buried in General\n- The composer's provider picker now marks which providers you have already configured\n- The model picker distinguishes models that share a name, and Cline Pass subscription models are listed separately from the free fallback tier\n- Published DMGs use the intended window layout and background again. Tauri skips the Finder AppleScript that applies them whenever `CI` is set, which GitHub Actions always sets, so every DMG since the artwork landed shipped with a stock Finder window even though the artwork was generated and validated\n- Cline's recommended, free, and subscribed model lists now ship with the app, so they are correct at first launch instead of waiting on a live catalog fetch\n- Refreshed the model catalog. Adds NaN (nan.builders) and changes the resolved default model for 36 providers \u2014 including Bedrock, Vertex, OpenRouter, Kilo, GitHub Copilot, Gemini, Cerebras, Fireworks, Requesty, and Vercel AI Gateway. Several move off Claude Fable 5.1 to GPT-6 Astra, Vertex goes to Gemini 3.8 Flash, and OpenRouter/Kilo to Inception Mercury 2.5. If you use one of those without pinning a model, expect a different default\n\n**Full Changelog**: https://github.com/cline/cline/compare/desktop-v0.0.24...desktop-v0.0.25\n"}
+{"id":386862195,"author":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOMSqWwc4XDwxz","tag_name":"desktop-v0.0.26","target_commitish":"main","name":"Desktop v0.0.26","draft":false,"immutable":false,"prerelease":false,"created_at":"2026-09-11T07:28:17Z","updated_at":"2026-09-11T07:46:46Z","published_at":"2026-09-11T07:46:42Z","assets":[{"id":556761597,"node_id":"RA_kwDOMSqWwc4hL4H9","name":"Cline_0.0.26_universal.app.tar.gz","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/gzip","state":"uploaded","size":76422411,"digest":"sha256:64003fd7464666115ae8eb7c9ac900be548cca1cb33f3fbdd03062cdad22ce17","download_count":70,"created_at":"2026-09-11T07:46:43Z","updated_at":"2026-09-11T07:46:46Z"},{"id":556761591,"node_id":"RA_kwDOMSqWwc4hL4H3","name":"Cline_0.0.26_universal.app.tar.gz.sig","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/pgp-signature","state":"uploaded","size":404,"digest":"sha256:408f0ac21dfd2425b9a2372c15d5ba7257af440ef8c450cdcff271847889c5a1","download_count":4,"created_at":"2026-09-11T07:46:43Z","updated_at":"2026-09-11T07:46:43Z"},{"id":556761602,"node_id":"RA_kwDOMSqWwc4hL4IC","name":"Cline_0.0.26_universal.dmg","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":77070005,"digest":"sha256:84adbdb2f4bf9b536898ec073ff59dd027de32de1d6993b5614a887d462eeaf9","download_count":67,"created_at":"2026-09-11T07:46:43Z","updated_at":"2026-09-11T07:46:46Z"},{"id":556761598,"node_id":"RA_kwDOMSqWwc4hL4H-","name":"Cline_0.0.26_x64-setup.exe","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":37764416,"digest":"sha256:e0687bb4f764613ce5ec0d43f3e4722b90530d8123f084a9e9cc0ff3dab5a4a1","download_count":304,"created_at":"2026-09-11T07:46:43Z","updated_at":"2026-09-11T07:46:45Z"},{"id":556761600,"node_id":"RA_kwDOMSqWwc4hL4IA","name":"Cline_0.0.26_x64-setup.exe.sig","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/pgp-signature","state":"uploaded","size":416,"digest":"sha256:3164b251e8bc25d6d3f830318e65a517c9af4dd2d7c94956d6b1a40cfc694b4d","download_count":4,"created_at":"2026-09-11T07:46:43Z","updated_at":"2026-09-11T07:46:43Z"},{"id":556761595,"node_id":"RA_kwDOMSqWwc4hL4H7","name":"latest.json","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/json","state":"uploaded","size":7847,"digest":"sha256:f253f2fea2e92f1833e30cf6edf3be0deb0dfae6f9dbed5f005997591018c203","download_count":8,"created_at":"2026-09-11T07:46:43Z","updated_at":"2026-09-11T07:46:43Z"}],"body":"\n- The composer now shows the current branch's GitHub pull request \u2014 PR number, merge status, changed-line totals, and CI checks. Click through to open it in your browser, or expand CI to inspect individual checks and their logs; status refreshes every 30 seconds while visible, on window focus, and on demand. If the branch has no PR, **Create PR** opens GitHub's comparison form. Requires the GitHub CLI (`gh`) installed and signed in, plus a GitHub.com `origin` remote; the row hides itself on the default branch, detached HEAD, and unsupported repositories. Cline does not push commits or submit the PR for you\n- The Customize view's Tools, Skills, and Rules tabs now read as one consistent list instead of three different ones, matching the pattern Plugins already used. Tools gets a search bar that filters both sections and per-section Enable all/Disable all that only touches what's visible; Skills gets an in-place enable/disable toggle \u2014 previously the desktop app had no concept of a disabled skill, so disabled ones were hidden and unreachable \u2014 and the same Copy path / Uninstall menu Plugins use. Tabs are reordered to Tools, Plugins, Skills, Rules, MCP, Hooks and open on Tools, and the sidebar's \"New Task\" button is now \"New Session\"\n- Deleting a queued prompt no longer leaves it in the transcript as a message that never ran. The sidecar inferred a queued prompt had started whenever the pending list shrank and its head changed \u2014 which is exactly what deleting the first queued prompt (or discarding the queue) looks like. It now relies only on the runtime's real start event\n- A session forked from a checkpoint restore no longer comes back stuck on \"Thinking...\". Sessions that materialize with seeded history never passed their status when persisting, so the row and manifest were written as \"running\" while the live session was idle; resuming from that manifest then showed a session that was never going to finish\n- Sending an image with no text no longer fails with \"session input requires a prompt string\" \u2014 the composer asks for a message instead of letting the request through to a backend that rejects it\n- Image attachments in formats the model pipeline can't read (HEIC, TIFF, SVG, BMP, ICO, and friends) are now rejected at attach time \u2014 by picker, paste, or drag-and-drop \u2014 instead of failing later in the turn. Files whose type has to be inferred from the extension are classified the same way\n- Signing out of ChatGPT (Codex) now sticks. Sign-out removes the provider entry, but the runtime re-imports any missing provider from the classic extension's stored credentials on every command, so the next action signed you straight back in. The legacy Codex credentials are now cleared too, and a failed clear reports the sign-out as failed instead of quietly succeeding\n- Auth failures on providers that log in through a local CLI \u2014 Claude Code, Codex CLI, OpenCode \u2014 now point you at that CLI instead of Settings \u2192 Models, where there is nothing to fix. \"OAuth session expired\", \"Not logged in \u00b7 Please run /login\", and similar messages are also recognized as credential failures now, so they get a hint at all\n- Model lists now refresh from the live catalog for every provider that uses the shared catalog, not just Cline and Cline Pass. Providers with their own endpoint-owned model lists are unaffected, and the first providers listing is still network-free\n- Cline Pass and free models now report zero cost instead of the upstream provider's price\n- Session history rows no longer overlap their own hover metadata when a label is wider than the fixed label column\n- Scheduled sessions no longer stall out. The poller could stop advancing, and capacity waits were counted as run attempts, so a schedule could burn through its retries without ever running. Execution lifecycle and capacity claims are now fenced atomically. New recurring schedules also default to your local timezone instead of UTC; existing schedules without a timezone keep it that way when edited\n- Automation event acceptance is now atomic and retryable, so an event can't be half-accepted and lost if delivery fails mid-way\n- Nested PowerShell commands no longer flood errors and look like a hang. Commands run through an outer PowerShell bootstrap, so a nested `powershell -Command \"... $_ ...\"` had `$_` interpolated away by the outer parser before the inner shell saw it \u2014 a `Where-Object { $_.Name ... }` pipeline then errored once per item over a large tree while still exiting 0. Redundant nested invocations are now unwrapped and run directly, only when that provably preserves semantics (same PowerShell edition, no profile loading, fully quoted command). Cline is also told which edition it's actually on \u2014 Windows PowerShell vs. Microsoft PowerShell \u2014 and to stop wrapping commands in a shell it's already running in\n- Prompt telemetry to Cline's tracing backend is now limited to Cline and Cline Pass requests. Turns run against your own provider keys are not traced\n- Cline Pass now appears in the composer's provider picker alongside Cline. One Cline sign-in configures both \u2014 Cline Pass stores its credentials under the Cline account rather than having its own \u2014 but the picker only listed providers with their own saved settings entry, and onboarding writes just the Cline one. A new Cline Pass user therefore saw a single row\n- The composer's provider picker has a **Set up another provider** row at the bottom that opens Settings \u2192 Models. The picker only lists what you have already configured, so there was no way to reach the rest of the catalog from the composer\n- Dropped the \"Configured\" checkmark from the composer's provider picker (added in 0.0.25). Every row in that picker has a saved settings entry, so for anyone who set their providers up in the app every row carried the same green check and it read as decoration. Settings is still where provider readiness is shown, and it distinguishes a real credential from an entry a legacy migration left behind\n\n**Full Changelog**: https://github.com/cline/cline/compare/desktop-v0.0.25...desktop-v0.0.26\n","reactions":{"total_count":1,"+1":0,"-1":0,"laugh":0,"hooray":0,"confused":0,"heart":0,"rocket":1,"eyes":0}}
