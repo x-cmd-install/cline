@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 76395027,
       "digest": "sha256:717095e0035da2d9e8a18845166fc43ffb4b7c1d8544e6508d120baa0110d5de",
-      "download_count": 98,
+      "download_count": 106,
       "created_at": "2026-09-10T04:57:15Z",
       "updated_at": "2026-09-10T04:57:18Z",
       "browser_download_url": "https://github.com/cline/cline/releases/download/desktop-v0.0.25/Cline_0.0.25_universal.app.tar.gz"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 404,
       "digest": "sha256:c55f43487565d4a8bada2cc62e98b66f41c436d812731bf02b0bf43013fa0e38",
-      "download_count": 4,
+      "download_count": 6,
       "created_at": "2026-09-10T04:57:16Z",
       "updated_at": "2026-09-10T04:57:16Z",
       "browser_download_url": "https://github.com/cline/cline/releases/download/desktop-v0.0.25/Cline_0.0.25_universal.app.tar.gz.sig"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 77048611,
       "digest": "sha256:03ba9058117eb87e67cc78c184919d1f86615401f5c141d9457bc136bf82404f",
-      "download_count": 29,
+      "download_count": 40,
       "created_at": "2026-09-10T04:57:15Z",
       "updated_at": "2026-09-10T04:57:18Z",
       "browser_download_url": "https://github.com/cline/cline/releases/download/desktop-v0.0.25/Cline_0.0.25_universal.dmg"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 37755736,
       "digest": "sha256:3f78287c2347a0da0dcae3f3eed1c35b8b511a0df11729acaace69cb9957a1a6",
-      "download_count": 326,
+      "download_count": 364,
       "created_at": "2026-09-10T04:57:15Z",
       "updated_at": "2026-09-10T04:57:17Z",
       "browser_download_url": "https://github.com/cline/cline/releases/download/desktop-v0.0.25/Cline_0.0.25_x64-setup.exe"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 416,
       "digest": "sha256:e61fc7bdf87ccbaea9dcd8c2ecc1cf492611fc7f1666bc33afcb481db642a2d5",
-      "download_count": 5,
+      "download_count": 8,
       "created_at": "2026-09-10T04:57:15Z",
       "updated_at": "2026-09-10T04:57:16Z",
       "browser_download_url": "https://github.com/cline/cline/releases/download/desktop-v0.0.25/Cline_0.0.25_x64-setup.exe.sig"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 5067,
       "digest": "sha256:57b33a98b19a315f2689f4bc967f8b294779e98a76e86f95292e90d5ac3ffe26",
-      "download_count": 7,
+      "download_count": 9,
       "created_at": "2026-09-10T04:57:15Z",
       "updated_at": "2026-09-10T04:57:16Z",
       "browser_download_url": "https://github.com/cline/cline/releases/download/desktop-v0.0.25/latest.json"
