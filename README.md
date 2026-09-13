@@ -38,22 +38,22 @@ Total: **853,782** lines of code across **3263** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 67,863 · **Forks**: 7,331 · **Open issues**: 4,567 · **Contributors**: 334
+- **Stars**: 67,904 · **Forks**: 7,336 · **Open issues**: 4,569 · **Contributors**: 334
 
 ## Totals (cumulative)
 
-- **Releases**: 410 · **Merged PRs**: 4721 · **Open PRs**: 532 · **Closed issues**: 3807 · **Open issues**: 760 · **Commits**: 7283
+- **Releases**: 410 · **Merged PRs**: 4721 · **Open PRs**: 538 · **Closed issues**: 3810 · **Open issues**: 759 · **Commits**: 7283
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-13 | 47 | 281 | 213 | 43 | 191 | 295 |
-| last60d | 2026-07-14 | 97 | 690 | 377 | 126 | 301 | 756 |
-| 90d | 2026-06-14 | 100 | 1004 | 447 | 183 | 413 | 1090 |
-| last180d | 2026-03-16 | 100 | 1417 | 512 | 420 | 686 | 2181 |
-| 360d | 2025-09-17 | 100 | 2813 | 532 | 1426 | 754 | 3768 |
-| last720d | 2024-09-22 | 100 | 4716 | 532 | 3502 | 760 | 6668 |
+| 30d | 2026-08-14 | 43 | 273 | 217 | 41 | 185 | 295 |
+| last60d | 2026-07-15 | 97 | 680 | 378 | 126 | 296 | 756 |
+| 90d | 2026-06-15 | 100 | 997 | 451 | 183 | 412 | 1090 |
+| last180d | 2026-03-17 | 100 | 1415 | 518 | 419 | 682 | 2181 |
+| 360d | 2025-09-18 | 100 | 2801 | 538 | 1415 | 753 | 3768 |
+| last720d | 2024-09-23 | 100 | 4715 | 538 | 3497 | 759 | 6662 |
 
 ## Release assets
 
@@ -75,4 +75,4 @@ Install metadata for cline lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260912.yml` · 2026-09-12T05:41:27Z._
+_Snapshot: `data/card/260913.yml` · 2026-09-13T05:56:02Z._
