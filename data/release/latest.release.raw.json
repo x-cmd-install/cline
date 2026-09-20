@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 164975231,
       "digest": "sha256:bddfce4dac220389ffa21c4bfd8f4b0d41ecf52da92fc0989ed7158275d61296",
-      "download_count": 630,
+      "download_count": 1969,
       "created_at": "2026-09-18T01:42:36Z",
       "updated_at": "2026-09-18T01:42:59Z",
       "browser_download_url": "https://github.com/cline/cline/releases/download/desktop-v0.0.32/Cline_0.0.32_universal.app.tar.gz"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 404,
       "digest": "sha256:91340e484411267d7f8f1eedcad656e4435134e85183dba29709292683c27724",
-      "download_count": 3,
+      "download_count": 13,
       "created_at": "2026-09-18T01:42:36Z",
       "updated_at": "2026-09-18T01:42:36Z",
       "browser_download_url": "https://github.com/cline/cline/releases/download/desktop-v0.0.32/Cline_0.0.32_universal.app.tar.gz.sig"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 162522457,
       "digest": "sha256:acd604c71d2ed1093876ddd7c476bcaab51edbd329cda7e0016ec20bdbe20d95",
-      "download_count": 131,
+      "download_count": 3300,
       "created_at": "2026-09-18T01:42:36Z",
       "updated_at": "2026-09-18T01:43:09Z",
       "browser_download_url": "https://github.com/cline/cline/releases/download/desktop-v0.0.32/Cline_0.0.32_universal.dmg"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 94699616,
       "digest": "sha256:fd83b00f68d94d5ef3328421a016485bcacc77654a7994ec1cea8bc6f05ff7f6",
-      "download_count": 2255,
+      "download_count": 18799,
       "created_at": "2026-09-18T01:42:36Z",
       "updated_at": "2026-09-18T01:42:47Z",
       "browser_download_url": "https://github.com/cline/cline/releases/download/desktop-v0.0.32/Cline_0.0.32_x64-setup.exe"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 416,
       "digest": "sha256:00bf320d948ad1e37cf05682f9231514372c8b58eac50d4f318bc84c3445e85d",
-      "download_count": 5,
+      "download_count": 27,
       "created_at": "2026-09-18T01:42:36Z",
       "updated_at": "2026-09-18T01:42:36Z",
       "browser_download_url": "https://github.com/cline/cline/releases/download/desktop-v0.0.32/Cline_0.0.32_x64-setup.exe.sig"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 2464,
       "digest": "sha256:32b42dbe47a597b58892184decc8c0922f82d07a92c2363a0568e217e68411f8",
-      "download_count": 3,
+      "download_count": 45,
       "created_at": "2026-09-18T01:42:36Z",
       "updated_at": "2026-09-18T01:42:36Z",
       "browser_download_url": "https://github.com/cline/cline/releases/download/desktop-v0.0.32/latest.json"
@@ -255,5 +255,17 @@
   ],
   "tarball_url": "https://api.github.com/repos/cline/cline/tarball/desktop-v0.0.32",
   "zipball_url": "https://api.github.com/repos/cline/cline/zipball/desktop-v0.0.32",
-  "body": "\n- Cline starts again after updating. In 0.0.31 the app could fail at launch with \"desktop backend exited before publishing its endpoint\" and never reach the workspace picker. Cline runs its own copy of the Cline Hub in the background, and the two halves had been built from different copies of the same code — so the Hub announced one build identity while the app expected another, the app shut down the very Hub it had just started, and startup timed out reporting \"No compatible hub runtime is available\". Both halves now load the same copy of that code, and the real compiled backend is now booted end-to-end in CI on every change so the two cannot drift apart again\n\n**Full Changelog**: https://github.com/cline/cline/compare/desktop-v0.0.31...desktop-v0.0.32\n"
+  "body": "\n- Cline starts again after updating. In 0.0.31 the app could fail at launch with \"desktop backend exited before publishing its endpoint\" and never reach the workspace picker. Cline runs its own copy of the Cline Hub in the background, and the two halves had been built from different copies of the same code — so the Hub announced one build identity while the app expected another, the app shut down the very Hub it had just started, and startup timed out reporting \"No compatible hub runtime is available\". Both halves now load the same copy of that code, and the real compiled backend is now booted end-to-end in CI on every change so the two cannot drift apart again\n\n**Full Changelog**: https://github.com/cline/cline/compare/desktop-v0.0.31...desktop-v0.0.32\n",
+  "reactions": {
+    "url": "https://api.github.com/repos/cline/cline/releases/391160517/reactions",
+    "total_count": 10,
+    "+1": 5,
+    "-1": 0,
+    "laugh": 0,
+    "hooray": 4,
+    "confused": 0,
+    "heart": 0,
+    "rocket": 1,
+    "eyes": 0
+  }
 }
