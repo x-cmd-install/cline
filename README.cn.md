@@ -4,7 +4,7 @@
 
 Autonomous coding agent as an SDK, IDE extension, or CLI assistant.
 
-[![x-cmd/install — cline Code Quality Monitoring Repo Card](https://repo.x-cmd.io/cline.svg?lang=zh)](https://x-cmd.com/install/cline)
+[![x-cmd/install — cline Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/cline.svg?lang=zh)](https://x-cmd.com/install/cline)
 
 ## 安装
 
@@ -14,13 +14,13 @@ x install cline
 
 ## 代码洞察
 
-合计: **902,472** 行代码（覆盖前 5 种语言、共 **3344** 个文件）。
+合计: **905,484** 行代码（覆盖前 5 种语言、共 **3349** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| TypeScript | 688,125 | 40,327 | 46,958 | 2398 |
-| Tsx | 164,132 | 4,658 | 13,914 | 711 |
-| Json | 32,406 | 0 | 16 | 162 |
+| TypeScript | 691,008 | 40,352 | 47,004 | 2403 |
+| Tsx | 164,255 | 4,658 | 13,917 | 711 |
+| Json | 32,412 | 0 | 16 | 162 |
 | JavaScript | 7,248 | 936 | 616 | 44 |
 | Css | 3,902 | 313 | 438 | 29 |
 
@@ -32,27 +32,39 @@ x install cline
 
 ## 发布
 
-- **最新版本**: `cli-v3.0.63` (2026-09-22)
-- **最近提交**: 2026-09-22
+- **最新版本**: `desktop-v0.0.34` (2026-09-22)
+- **最近提交**: 2026-09-23
+- **Release 含资产**: 6 个
 
 ## 流行度
 
-- **Star**: 69,002 · **Fork**: 7,475 · **开放 issue**: 4,653 · **贡献者**: 335
+- **Star**: 69,099 · **Fork**: 7,491 · **开放 issue**: 4,669 · **贡献者**: 335
 
 ## 累计统计
 
-- **发布数**: 421 · **已合并 PR**: 4807 · **开放 PR**: 584 · **已关闭 issue**: 3843 · **开放 issue**: 810 · **提交数**: 7388
+- **发布数**: 426 · **已合并 PR**: 4815 · **开放 PR**: 612 · **已关闭 issue**: 3849 · **开放 issue**: 820 · **提交数**: 7398
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 36 | 275 | 215 | 43 | 209 | 227 |
-| last60d | 2026-07-24 | 92 | 683 | 404 | 120 | 333 | 682 |
-| 90d | 2026-06-24 | 100 | 995 | 474 | 188 | 449 | 972 |
-| last180d | 2026-03-26 | 100 | 1473 | 561 | 411 | 721 | 1992 |
-| 360d | 2025-09-27 | 100 | 2814 | 584 | 1389 | 802 | 3707 |
-| last720d | 2024-10-02 | 100 | 4801 | 584 | 3504 | 810 | 6715 |
+| 30d | 2026-08-24 | 38 | 269 | 237 | 44 | 220 | 237 |
+| last60d | 2026-07-25 | 95 | 689 | 427 | 124 | 345 | 692 |
+| 90d | 2026-06-25 | 100 | 973 | 501 | 191 | 459 | 982 |
+| last180d | 2026-03-27 | 100 | 1478 | 589 | 414 | 729 | 2002 |
+| 360d | 2025-09-28 | 100 | 2815 | 612 | 1386 | 812 | 3717 |
+| last720d | 2024-10-03 | 100 | 4809 | 612 | 3507 | 820 | 6725 |
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [Cline_0.0.34_universal.app.tar.gz](https://github.com/cline/cline/releases/download/desktop-v0.0.34/Cline_0.0.34_universal.app.tar.gz) | 125.1 MiB | `native/unknown` |
+| [Cline_0.0.34_universal.app.tar.gz.sig](https://github.com/cline/cline/releases/download/desktop-v0.0.34/Cline_0.0.34_universal.app.tar.gz.sig) | 404 B | `other` |
+| [Cline_0.0.34_universal.dmg](https://github.com/cline/cline/releases/download/desktop-v0.0.34/Cline_0.0.34_universal.dmg) | 125.3 MiB | `other` |
+| [Cline_0.0.34_x64-setup.exe](https://github.com/cline/cline/releases/download/desktop-v0.0.34/Cline_0.0.34_x64-setup.exe) | 89.2 MiB | `other` |
+| [Cline_0.0.34_x64-setup.exe.sig](https://github.com/cline/cline/releases/download/desktop-v0.0.34/Cline_0.0.34_x64-setup.exe.sig) | 416 B | `other` |
+| [latest.json](https://github.com/cline/cline/releases/download/desktop-v0.0.34/latest.json) | 2.8 KiB | `other` |
 
 ## 改进这些数据
 
@@ -63,4 +75,4 @@ cline 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T06:02:39Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T06:15:13Z._

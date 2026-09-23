@@ -4,7 +4,7 @@
 
 Autonomous coding agent as an SDK, IDE extension, or CLI assistant.
 
-[![x-cmd/install — cline Code Quality Monitoring Repo Card](https://repo.x-cmd.io/cline.svg)](https://x-cmd.com/install/cline)
+[![x-cmd/install — cline Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/cline.svg)](https://x-cmd.com/install/cline)
 
 ## Install
 
@@ -14,13 +14,13 @@ x install cline
 
 ## Code insight
 
-Total: **902,472** lines of code across **3344** files in the top 5 languages.
+Total: **905,484** lines of code across **3349** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| TypeScript | 688,125 | 40,327 | 46,958 | 2398 |
-| Tsx | 164,132 | 4,658 | 13,914 | 711 |
-| Json | 32,406 | 0 | 16 | 162 |
+| TypeScript | 691,008 | 40,352 | 47,004 | 2403 |
+| Tsx | 164,255 | 4,658 | 13,917 | 711 |
+| Json | 32,412 | 0 | 16 | 162 |
 | JavaScript | 7,248 | 936 | 616 | 44 |
 | Css | 3,902 | 313 | 438 | 29 |
 
@@ -32,27 +32,39 @@ Total: **902,472** lines of code across **3344** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `cli-v3.0.63` (2026-09-22)
-- **Last commit**: 2026-09-22
+- **Latest**: `desktop-v0.0.34` (2026-09-22)
+- **Last commit**: 2026-09-23
+- **Assets in release**: 6
 
 ## Popularity
 
-- **Stars**: 69,002 · **Forks**: 7,475 · **Open issues**: 4,653 · **Contributors**: 335
+- **Stars**: 69,099 · **Forks**: 7,491 · **Open issues**: 4,669 · **Contributors**: 335
 
 ## Totals (cumulative)
 
-- **Releases**: 421 · **Merged PRs**: 4807 · **Open PRs**: 584 · **Closed issues**: 3843 · **Open issues**: 810 · **Commits**: 7388
+- **Releases**: 426 · **Merged PRs**: 4815 · **Open PRs**: 612 · **Closed issues**: 3849 · **Open issues**: 820 · **Commits**: 7398
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 36 | 275 | 215 | 43 | 209 | 227 |
-| last60d | 2026-07-24 | 92 | 683 | 404 | 120 | 333 | 682 |
-| 90d | 2026-06-24 | 100 | 995 | 474 | 188 | 449 | 972 |
-| last180d | 2026-03-26 | 100 | 1473 | 561 | 411 | 721 | 1992 |
-| 360d | 2025-09-27 | 100 | 2814 | 584 | 1389 | 802 | 3707 |
-| last720d | 2024-10-02 | 100 | 4801 | 584 | 3504 | 810 | 6715 |
+| 30d | 2026-08-24 | 38 | 269 | 237 | 44 | 220 | 237 |
+| last60d | 2026-07-25 | 95 | 689 | 427 | 124 | 345 | 692 |
+| 90d | 2026-06-25 | 100 | 973 | 501 | 191 | 459 | 982 |
+| last180d | 2026-03-27 | 100 | 1478 | 589 | 414 | 729 | 2002 |
+| 360d | 2025-09-28 | 100 | 2815 | 612 | 1386 | 812 | 3717 |
+| last720d | 2024-10-03 | 100 | 4809 | 612 | 3507 | 820 | 6725 |
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [Cline_0.0.34_universal.app.tar.gz](https://github.com/cline/cline/releases/download/desktop-v0.0.34/Cline_0.0.34_universal.app.tar.gz) | 125.1 MiB | `native/unknown` |
+| [Cline_0.0.34_universal.app.tar.gz.sig](https://github.com/cline/cline/releases/download/desktop-v0.0.34/Cline_0.0.34_universal.app.tar.gz.sig) | 404 B | `other` |
+| [Cline_0.0.34_universal.dmg](https://github.com/cline/cline/releases/download/desktop-v0.0.34/Cline_0.0.34_universal.dmg) | 125.3 MiB | `other` |
+| [Cline_0.0.34_x64-setup.exe](https://github.com/cline/cline/releases/download/desktop-v0.0.34/Cline_0.0.34_x64-setup.exe) | 89.2 MiB | `other` |
+| [Cline_0.0.34_x64-setup.exe.sig](https://github.com/cline/cline/releases/download/desktop-v0.0.34/Cline_0.0.34_x64-setup.exe.sig) | 416 B | `other` |
+| [latest.json](https://github.com/cline/cline/releases/download/desktop-v0.0.34/latest.json) | 2.8 KiB | `other` |
 
 ## Improve this data
 
@@ -63,4 +75,4 @@ Install metadata for cline lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T06:02:39Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T06:15:12Z._
