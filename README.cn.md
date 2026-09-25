@@ -14,12 +14,12 @@ x install cline
 
 ## 代码洞察
 
-合计: **919,649** 行代码（覆盖前 5 种语言、共 **3396** 个文件）。
+合计: **920,196** 行代码（覆盖前 5 种语言、共 **3400** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| TypeScript | 702,934 | 40,616 | 47,224 | 2427 |
-| Tsx | 166,420 | 4,689 | 14,000 | 732 |
+| TypeScript | 703,387 | 40,681 | 47,260 | 2431 |
+| Tsx | 166,442 | 4,691 | 14,000 | 732 |
 | Json | 32,436 | 0 | 16 | 162 |
 | JavaScript | 7,248 | 936 | 616 | 44 |
 | Css | 3,928 | 315 | 438 | 31 |
@@ -32,39 +32,34 @@ x install cline
 
 ## 发布
 
-- **最新版本**: `desktop-v0.0.34` (2026-09-22)
-- **最近提交**: 2026-09-24
-- **Release 含资产**: 6 个
+- **最新版本**: `v4.1.21` (2026-09-24)
+- **最近提交**: 2026-09-25
+- **Release 含资产**: 1 个
 
 ## 流行度
 
-- **Star**: 69,193 · **Fork**: 7,502 · **开放 issue**: 4,684 · **贡献者**: 336
+- **Star**: 69,269 · **Fork**: 7,515 · **开放 issue**: 4,691 · **贡献者**: 336
 
 ## 累计统计
 
-- **发布数**: 426 · **已合并 PR**: 4841 · **开放 PR**: 600 · **已关闭 issue**: 3854 · **开放 issue**: 830 · **提交数**: 7426
+- **发布数**: 430 · **已合并 PR**: 4845 · **开放 PR**: 613 · **已关闭 issue**: 3859 · **开放 issue**: 832 · **提交数**: 7433
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-25 | 36 | 269 | 224 | 43 | 222 | 0 |
-| last60d | 2026-07-26 | 95 | 702 | 412 | 126 | 353 | 0 |
-| 90d | 2026-06-26 | 100 | 965 | 485 | 191 | 465 | 0 |
-| last180d | 2026-03-28 | 100 | 1503 | 577 | 414 | 737 | 0 |
-| 360d | 2025-09-29 | 100 | 2825 | 600 | 1382 | 822 | 0 |
-| last720d | 2024-10-04 | 100 | 4835 | 600 | 3508 | 830 | 6753 |
+| 30d | 2026-08-26 | 39 | 267 | 227 | 44 | 218 | 272 |
+| last60d | 2026-07-27 | 99 | 691 | 421 | 128 | 354 | 727 |
+| 90d | 2026-06-27 | 100 | 963 | 497 | 184 | 463 | 1017 |
+| last180d | 2026-03-29 | 100 | 1507 | 589 | 415 | 738 | 2037 |
+| 360d | 2025-09-30 | 100 | 2826 | 613 | 1379 | 824 | 3752 |
+| last720d | 2024-10-05 | 100 | 4839 | 613 | 3511 | 832 | 6760 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [Cline_0.0.34_universal.app.tar.gz](https://github.com/cline/cline/releases/download/desktop-v0.0.34/Cline_0.0.34_universal.app.tar.gz) | 125.1 MiB | `native/unknown` |
-| [Cline_0.0.34_universal.app.tar.gz.sig](https://github.com/cline/cline/releases/download/desktop-v0.0.34/Cline_0.0.34_universal.app.tar.gz.sig) | 404 B | `other` |
-| [Cline_0.0.34_universal.dmg](https://github.com/cline/cline/releases/download/desktop-v0.0.34/Cline_0.0.34_universal.dmg) | 125.3 MiB | `other` |
-| [Cline_0.0.34_x64-setup.exe](https://github.com/cline/cline/releases/download/desktop-v0.0.34/Cline_0.0.34_x64-setup.exe) | 89.2 MiB | `other` |
-| [Cline_0.0.34_x64-setup.exe.sig](https://github.com/cline/cline/releases/download/desktop-v0.0.34/Cline_0.0.34_x64-setup.exe.sig) | 416 B | `other` |
-| [latest.json](https://github.com/cline/cline/releases/download/desktop-v0.0.34/latest.json) | 2.8 KiB | `other` |
+| [cline-4.1.21.vsix](https://github.com/cline/cline/releases/download/v4.1.21/cline-4.1.21.vsix) | 8.8 MiB | `other` |
 
 ## 改进这些数据
 
@@ -75,4 +70,4 @@ cline 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260924.yml` · 2026-09-24T05:37:35Z._
+_数据快照: `data/card/260925.yml` · 2026-09-25T05:50:20Z._

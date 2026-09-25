@@ -14,12 +14,12 @@ x install cline
 
 ## Code insight
 
-Total: **919,649** lines of code across **3396** files in the top 5 languages.
+Total: **920,196** lines of code across **3400** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| TypeScript | 702,934 | 40,616 | 47,224 | 2427 |
-| Tsx | 166,420 | 4,689 | 14,000 | 732 |
+| TypeScript | 703,387 | 40,681 | 47,260 | 2431 |
+| Tsx | 166,442 | 4,691 | 14,000 | 732 |
 | Json | 32,436 | 0 | 16 | 162 |
 | JavaScript | 7,248 | 936 | 616 | 44 |
 | Css | 3,928 | 315 | 438 | 31 |
@@ -32,39 +32,34 @@ Total: **919,649** lines of code across **3396** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `desktop-v0.0.34` (2026-09-22)
-- **Last commit**: 2026-09-24
-- **Assets in release**: 6
+- **Latest**: `v4.1.21` (2026-09-24)
+- **Last commit**: 2026-09-25
+- **Assets in release**: 1
 
 ## Popularity
 
-- **Stars**: 69,193 · **Forks**: 7,502 · **Open issues**: 4,684 · **Contributors**: 336
+- **Stars**: 69,269 · **Forks**: 7,515 · **Open issues**: 4,691 · **Contributors**: 336
 
 ## Totals (cumulative)
 
-- **Releases**: 426 · **Merged PRs**: 4841 · **Open PRs**: 600 · **Closed issues**: 3854 · **Open issues**: 830 · **Commits**: 7426
+- **Releases**: 430 · **Merged PRs**: 4845 · **Open PRs**: 613 · **Closed issues**: 3859 · **Open issues**: 832 · **Commits**: 7433
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-25 | 36 | 269 | 224 | 43 | 222 | 0 |
-| last60d | 2026-07-26 | 95 | 702 | 412 | 126 | 353 | 0 |
-| 90d | 2026-06-26 | 100 | 965 | 485 | 191 | 465 | 0 |
-| last180d | 2026-03-28 | 100 | 1503 | 577 | 414 | 737 | 0 |
-| 360d | 2025-09-29 | 100 | 2825 | 600 | 1382 | 822 | 0 |
-| last720d | 2024-10-04 | 100 | 4835 | 600 | 3508 | 830 | 6753 |
+| 30d | 2026-08-26 | 39 | 267 | 227 | 44 | 218 | 272 |
+| last60d | 2026-07-27 | 99 | 691 | 421 | 128 | 354 | 727 |
+| 90d | 2026-06-27 | 100 | 963 | 497 | 184 | 463 | 1017 |
+| last180d | 2026-03-29 | 100 | 1507 | 589 | 415 | 738 | 2037 |
+| 360d | 2025-09-30 | 100 | 2826 | 613 | 1379 | 824 | 3752 |
+| last720d | 2024-10-05 | 100 | 4839 | 613 | 3511 | 832 | 6760 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [Cline_0.0.34_universal.app.tar.gz](https://github.com/cline/cline/releases/download/desktop-v0.0.34/Cline_0.0.34_universal.app.tar.gz) | 125.1 MiB | `native/unknown` |
-| [Cline_0.0.34_universal.app.tar.gz.sig](https://github.com/cline/cline/releases/download/desktop-v0.0.34/Cline_0.0.34_universal.app.tar.gz.sig) | 404 B | `other` |
-| [Cline_0.0.34_universal.dmg](https://github.com/cline/cline/releases/download/desktop-v0.0.34/Cline_0.0.34_universal.dmg) | 125.3 MiB | `other` |
-| [Cline_0.0.34_x64-setup.exe](https://github.com/cline/cline/releases/download/desktop-v0.0.34/Cline_0.0.34_x64-setup.exe) | 89.2 MiB | `other` |
-| [Cline_0.0.34_x64-setup.exe.sig](https://github.com/cline/cline/releases/download/desktop-v0.0.34/Cline_0.0.34_x64-setup.exe.sig) | 416 B | `other` |
-| [latest.json](https://github.com/cline/cline/releases/download/desktop-v0.0.34/latest.json) | 2.8 KiB | `other` |
+| [cline-4.1.21.vsix](https://github.com/cline/cline/releases/download/v4.1.21/cline-4.1.21.vsix) | 8.8 MiB | `other` |
 
 ## Improve this data
 
@@ -75,4 +70,4 @@ Install metadata for cline lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260924.yml` · 2026-09-24T05:37:34Z._
+_Snapshot: `data/card/260925.yml` · 2026-09-25T05:50:20Z._
