@@ -14,14 +14,14 @@ x install cline
 
 ## 代码洞察
 
-合计: **920,196** 行代码（覆盖前 5 种语言、共 **3400** 个文件）。
+合计: **925,242** 行代码（覆盖前 5 种语言、共 **3428** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| TypeScript | 703,387 | 40,681 | 47,260 | 2431 |
-| Tsx | 166,442 | 4,691 | 14,000 | 732 |
-| Json | 32,436 | 0 | 16 | 162 |
-| JavaScript | 7,248 | 936 | 616 | 44 |
+| TypeScript | 707,455 | 40,861 | 47,471 | 2454 |
+| Tsx | 167,385 | 4,705 | 14,054 | 737 |
+| Json | 32,437 | 0 | 16 | 162 |
+| JavaScript | 7,251 | 938 | 616 | 44 |
 | Css | 3,928 | 315 | 438 | 31 |
 
 ## 源代码
@@ -32,34 +32,43 @@ x install cline
 
 ## 发布
 
-- **最新版本**: `v4.1.21` (2026-09-24)
-- **最近提交**: 2026-09-25
-- **Release 含资产**: 1 个
+- **最新版本**: `desktop-v0.0.37` (2026-09-26)
+- **最近提交**: 2026-09-26
+- **Release 含资产**: 10 个
 
 ## 流行度
 
-- **Star**: 69,269 · **Fork**: 7,515 · **开放 issue**: 4,691 · **贡献者**: 336
+- **Star**: 69,341 · **Fork**: 7,521 · **开放 issue**: 4,705 · **贡献者**: 336
 
 ## 累计统计
 
-- **发布数**: 430 · **已合并 PR**: 4845 · **开放 PR**: 613 · **已关闭 issue**: 3859 · **开放 issue**: 832 · **提交数**: 7433
+- **发布数**: 432 · **已合并 PR**: 4859 · **开放 PR**: 618 · **已关闭 issue**: 3867 · **开放 issue**: 838 · **提交数**: 7449
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-26 | 39 | 267 | 227 | 44 | 218 | 272 |
-| last60d | 2026-07-27 | 99 | 691 | 421 | 128 | 354 | 727 |
-| 90d | 2026-06-27 | 100 | 963 | 497 | 184 | 463 | 1017 |
-| last180d | 2026-03-29 | 100 | 1507 | 589 | 415 | 738 | 2037 |
-| 360d | 2025-09-30 | 100 | 2826 | 613 | 1379 | 824 | 3752 |
-| last720d | 2024-10-05 | 100 | 4839 | 613 | 3511 | 832 | 6760 |
+| 30d | 2026-08-27 | 35 | 262 | 228 | 48 | 219 | 288 |
+| last60d | 2026-07-28 | 100 | 666 | 415 | 134 | 361 | 743 |
+| 90d | 2026-06-28 | 100 | 967 | 500 | 184 | 468 | 1033 |
+| last180d | 2026-03-30 | 100 | 1521 | 594 | 418 | 744 | 2053 |
+| 360d | 2025-10-01 | 100 | 2830 | 618 | 1381 | 830 | 3768 |
+| last720d | 2024-10-06 | 100 | 4853 | 618 | 3517 | 838 | 6776 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [cline-4.1.21.vsix](https://github.com/cline/cline/releases/download/v4.1.21/cline-4.1.21.vsix) | 8.8 MiB | `other` |
+| [Cline_0.0.37_amd64.deb](https://github.com/cline/cline/releases/download/desktop-v0.0.37/Cline_0.0.37_amd64.deb) | 104.2 MiB | `runtime/deb/amd64` |
+| [Cline_0.0.37_amd64.deb.sig](https://github.com/cline/cline/releases/download/desktop-v0.0.37/Cline_0.0.37_amd64.deb.sig) | 412 B | `other` |
+| [Cline_0.0.37_universal.app.tar.gz](https://github.com/cline/cline/releases/download/desktop-v0.0.37/Cline_0.0.37_universal.app.tar.gz) | 125.6 MiB | `native/unknown` |
+| [Cline_0.0.37_universal.app.tar.gz.sig](https://github.com/cline/cline/releases/download/desktop-v0.0.37/Cline_0.0.37_universal.app.tar.gz.sig) | 404 B | `other` |
+| [Cline_0.0.37_universal.dmg](https://github.com/cline/cline/releases/download/desktop-v0.0.37/Cline_0.0.37_universal.dmg) | 125.7 MiB | `other` |
+| [Cline_0.0.37_x64-setup.exe](https://github.com/cline/cline/releases/download/desktop-v0.0.37/Cline_0.0.37_x64-setup.exe) | 89.4 MiB | `other` |
+| [Cline_0.0.37_x64-setup.exe.sig](https://github.com/cline/cline/releases/download/desktop-v0.0.37/Cline_0.0.37_x64-setup.exe.sig) | 416 B | `other` |
+| [Cline_0.0.37_x86_64.rpm](https://github.com/cline/cline/releases/download/desktop-v0.0.37/Cline_0.0.37_x86_64.rpm) | 104.2 MiB | `other` |
+| [Cline_0.0.37_x86_64.rpm.sig](https://github.com/cline/cline/releases/download/desktop-v0.0.37/Cline_0.0.37_x86_64.rpm.sig) | 416 B | `other` |
+| [latest.json](https://github.com/cline/cline/releases/download/desktop-v0.0.37/latest.json) | 3.7 KiB | `other` |
 
 ## 改进这些数据
 
@@ -70,4 +79,4 @@ cline 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260925.yml` · 2026-09-25T05:50:20Z._
+_数据快照: `data/card/260926.yml` · 2026-09-26T05:46:04Z._
