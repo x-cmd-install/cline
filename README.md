@@ -14,11 +14,11 @@ x install cline
 
 ## Code insight
 
-Total: **925,242** lines of code across **3428** files in the top 5 languages.
+Total: **925,335** lines of code across **3428** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| TypeScript | 707,455 | 40,861 | 47,471 | 2454 |
+| TypeScript | 707,548 | 40,866 | 47,477 | 2454 |
 | Tsx | 167,385 | 4,705 | 14,054 | 737 |
 | Json | 32,437 | 0 | 16 | 162 |
 | JavaScript | 7,251 | 938 | 616 | 44 |
@@ -33,27 +33,27 @@ Total: **925,242** lines of code across **3428** files in the top 5 languages.
 ## Release
 
 - **Latest**: `desktop-v0.0.37` (2026-09-26)
-- **Last commit**: 2026-09-26
+- **Last commit**: 2026-09-27
 - **Assets in release**: 10
 
 ## Popularity
 
-- **Stars**: 69,341 · **Forks**: 7,521 · **Open issues**: 4,705 · **Contributors**: 336
+- **Stars**: 69,413 · **Forks**: 7,531 · **Open issues**: 4,718 · **Contributors**: 338
 
 ## Totals (cumulative)
 
-- **Releases**: 432 · **Merged PRs**: 4859 · **Open PRs**: 618 · **Closed issues**: 3867 · **Open issues**: 838 · **Commits**: 7449
+- **Releases**: 432 · **Merged PRs**: 4863 · **Open PRs**: 624 · **Closed issues**: 3875 · **Open issues**: 843 · **Commits**: 7453
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-27 | 35 | 262 | 228 | 48 | 219 | 288 |
-| last60d | 2026-07-28 | 100 | 666 | 415 | 134 | 361 | 743 |
-| 90d | 2026-06-28 | 100 | 967 | 500 | 184 | 468 | 1033 |
-| last180d | 2026-03-30 | 100 | 1521 | 594 | 418 | 744 | 2053 |
-| 360d | 2025-10-01 | 100 | 2830 | 618 | 1381 | 830 | 3768 |
-| last720d | 2024-10-06 | 100 | 4853 | 618 | 3517 | 838 | 6776 |
+| 30d | 2026-08-28 | 35 | 253 | 227 | 50 | 220 | 248 |
+| last60d | 2026-07-29 | 96 | 648 | 405 | 138 | 366 | 578 |
+| 90d | 2026-06-29 | 100 | 946 | 505 | 186 | 475 | 1000 |
+| last180d | 2026-03-31 | 100 | 1521 | 599 | 418 | 749 | 2012 |
+| 360d | 2025-10-02 | 100 | 2825 | 624 | 1377 | 835 | 3730 |
+| last720d | 2024-10-07 | 100 | 4857 | 624 | 3523 | 843 | 6780 |
 
 ## Release assets
 
@@ -79,4 +79,4 @@ Install metadata for cline lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260926.yml` · 2026-09-26T05:46:04Z._
+_Snapshot: `data/card/260927.yml` · 2026-09-27T06:11:04Z._
