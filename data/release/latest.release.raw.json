@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 109287780,
       "digest": "sha256:e9b335e99ba92c2b8ee938243c1bcf8f99a82e6428a8db1e3c7bd5e346dc2752",
-      "download_count": 32,
+      "download_count": 167,
       "created_at": "2026-09-26T02:28:00Z",
       "updated_at": "2026-09-26T02:28:03Z",
       "browser_download_url": "https://github.com/cline/cline/releases/download/desktop-v0.0.37/Cline_0.0.37_amd64.deb"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 412,
       "digest": "sha256:495f29ede81c259e40b7e71f6b0f48f03d10801eea955fd1d17f5450416bad57",
-      "download_count": 3,
+      "download_count": 10,
       "created_at": "2026-09-26T02:28:00Z",
       "updated_at": "2026-09-26T02:28:00Z",
       "browser_download_url": "https://github.com/cline/cline/releases/download/desktop-v0.0.37/Cline_0.0.37_amd64.deb.sig"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 131664377,
       "digest": "sha256:122dd6582962450c406660e7d33016a4b8d3a749e8c244f9480128a867f4e10b",
-      "download_count": 817,
+      "download_count": 2275,
       "created_at": "2026-09-26T02:28:00Z",
       "updated_at": "2026-09-26T02:28:03Z",
       "browser_download_url": "https://github.com/cline/cline/releases/download/desktop-v0.0.37/Cline_0.0.37_universal.app.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 404,
       "digest": "sha256:6ef762a60fcdbb64be2405f018e04889053c445f80a64445f7ac23f659d168ea",
-      "download_count": 3,
+      "download_count": 10,
       "created_at": "2026-09-26T02:28:00Z",
       "updated_at": "2026-09-26T02:28:00Z",
       "browser_download_url": "https://github.com/cline/cline/releases/download/desktop-v0.0.37/Cline_0.0.37_universal.app.tar.gz.sig"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 131812700,
       "digest": "sha256:35fa95d1429069949390d3eb06e6f39f651cd4d898a93b3ae4d4faa8444597ee",
-      "download_count": 108,
+      "download_count": 1067,
       "created_at": "2026-09-26T02:28:00Z",
       "updated_at": "2026-09-26T02:28:03Z",
       "browser_download_url": "https://github.com/cline/cline/releases/download/desktop-v0.0.37/Cline_0.0.37_universal.dmg"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 93745552,
       "digest": "sha256:e0935e4bd25af37f7b85600b0e34df016bc33a3a898d8682b4292578e1d294e5",
-      "download_count": 2734,
+      "download_count": 11657,
       "created_at": "2026-09-26T02:28:00Z",
       "updated_at": "2026-09-26T02:28:03Z",
       "browser_download_url": "https://github.com/cline/cline/releases/download/desktop-v0.0.37/Cline_0.0.37_x64-setup.exe"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 416,
       "digest": "sha256:45aa6bbfb09d72e7941f822b4b907c9bec5ed7114442e4992158f7a0586109e8",
-      "download_count": 3,
+      "download_count": 19,
       "created_at": "2026-09-26T02:28:00Z",
       "updated_at": "2026-09-26T02:28:00Z",
       "browser_download_url": "https://github.com/cline/cline/releases/download/desktop-v0.0.37/Cline_0.0.37_x64-setup.exe.sig"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 109301376,
       "digest": "sha256:bfcdfd977d2e60d031f0610015bfb02ea01c07721520ce6e71904e3c290323d0",
-      "download_count": 8,
+      "download_count": 41,
       "created_at": "2026-09-26T02:28:00Z",
       "updated_at": "2026-09-26T02:28:03Z",
       "browser_download_url": "https://github.com/cline/cline/releases/download/desktop-v0.0.37/Cline_0.0.37_x86_64.rpm"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 416,
       "digest": "sha256:04ffee42fdb881c3a21ea3fd2e9bb306538a2f64b4eb126310738452b4158909",
-      "download_count": 3,
+      "download_count": 8,
       "created_at": "2026-09-26T02:28:00Z",
       "updated_at": "2026-09-26T02:28:00Z",
       "browser_download_url": "https://github.com/cline/cline/releases/download/desktop-v0.0.37/Cline_0.0.37_x86_64.rpm.sig"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 3772,
       "digest": "sha256:f58beb2bcfc996ae5aee1e13b27506a49ee53c921a6bcc8d0a807504bfd367a1",
-      "download_count": 4,
+      "download_count": 18,
       "created_at": "2026-09-26T02:28:00Z",
       "updated_at": "2026-09-26T02:28:00Z",
       "browser_download_url": "https://github.com/cline/cline/releases/download/desktop-v0.0.37/latest.json"
@@ -399,5 +399,17 @@
   ],
   "tarball_url": "https://api.github.com/repos/cline/cline/tarball/desktop-v0.0.37",
   "zipball_url": "https://api.github.com/repos/cline/cline/zipball/desktop-v0.0.37",
-  "body": "\n- Settings has a new **About** page. It shows your version and channel, has **Check for updates** and **Restart to update** buttons, and lists the release notes for recent versions with links to each GitHub release and the full changelog. **Report an issue** is there too\n- After an update, a one-time **What's new** dialog now catches you up on recent features. The first one covers SSH remotes, worktrees, pull request status in the composer, and parallel sub-agents. To see it again, use **Highlights** on the About page\n- On macOS, **Help → Export Diagnostics…** now opens the diagnostics export directly, so you don't have to find it in Settings\n- On Amazon Bedrock, OpenAI models reached through inference profiles (`us.openai.…`, `global.openai.…`) no longer fail with \"Unknown parameter: 'reasoningConfig'\" when reasoning effort is set\n\n**Full Changelog**: https://github.com/cline/cline/compare/desktop-v0.0.36...desktop-v0.0.37\n"
+  "body": "\n- Settings has a new **About** page. It shows your version and channel, has **Check for updates** and **Restart to update** buttons, and lists the release notes for recent versions with links to each GitHub release and the full changelog. **Report an issue** is there too\n- After an update, a one-time **What's new** dialog now catches you up on recent features. The first one covers SSH remotes, worktrees, pull request status in the composer, and parallel sub-agents. To see it again, use **Highlights** on the About page\n- On macOS, **Help → Export Diagnostics…** now opens the diagnostics export directly, so you don't have to find it in Settings\n- On Amazon Bedrock, OpenAI models reached through inference profiles (`us.openai.…`, `global.openai.…`) no longer fail with \"Unknown parameter: 'reasoningConfig'\" when reasoning effort is set\n\n**Full Changelog**: https://github.com/cline/cline/compare/desktop-v0.0.36...desktop-v0.0.37\n",
+  "reactions": {
+    "url": "https://api.github.com/repos/cline/cline/releases/397039574/reactions",
+    "total_count": 1,
+    "+1": 0,
+    "-1": 0,
+    "laugh": 0,
+    "hooray": 1,
+    "confused": 0,
+    "heart": 0,
+    "rocket": 0,
+    "eyes": 0
+  }
 }
