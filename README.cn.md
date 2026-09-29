@@ -14,15 +14,15 @@ x install cline
 
 ## 代码洞察
 
-合计: **925,337** 行代码（覆盖前 5 种语言、共 **3428** 个文件）。
+合计: **932,293** 行代码（覆盖前 5 种语言、共 **3442** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| TypeScript | 707,548 | 40,866 | 47,477 | 2454 |
-| Tsx | 167,385 | 4,705 | 14,054 | 737 |
-| Json | 32,439 | 0 | 16 | 162 |
+| TypeScript | 713,261 | 41,128 | 47,715 | 2461 |
+| Tsx | 168,601 | 4,708 | 14,170 | 744 |
+| Json | 32,440 | 0 | 16 | 162 |
 | JavaScript | 7,251 | 938 | 616 | 44 |
-| Css | 3,928 | 315 | 438 | 31 |
+| Css | 3,954 | 315 | 442 | 31 |
 
 ## 源代码
 
@@ -32,43 +32,27 @@ x install cline
 
 ## 发布
 
-- **最新版本**: `desktop-v0.0.37` (2026-09-26)
-- **最近提交**: 2026-09-28
-- **Release 含资产**: 10 个
+- **最新版本**: `sdk/sdk/v0.0.87` (2026-09-29)
+- **最近提交**: 2026-09-29
 
 ## 流行度
 
-- **Star**: 69,461 · **Fork**: 7,534 · **开放 issue**: 4,731 · **贡献者**: 338
+- **Star**: 69,521 · **Fork**: 7,547 · **开放 issue**: 4,740 · **贡献者**: 339
 
 ## 累计统计
 
-- **发布数**: 432 · **已合并 PR**: 4864 · **开放 PR**: 630 · **已关闭 issue**: 3882 · **开放 issue**: 849 · **提交数**: 7454
+- **发布数**: 433 · **已合并 PR**: 4880 · **开放 PR**: 631 · **已关闭 issue**: 3889 · **开放 issue**: 851 · **提交数**: 7470
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-29 | 34 | 249 | 226 | 53 | 223 | 249 |
-| last60d | 2026-07-30 | 95 | 615 | 403 | 142 | 372 | 579 |
-| 90d | 2026-06-30 | 100 | 937 | 508 | 187 | 481 | 1001 |
-| last180d | 2026-04-01 | 100 | 1519 | 604 | 420 | 755 | 2013 |
-| 360d | 2025-10-03 | 100 | 2820 | 630 | 1378 | 841 | 3731 |
-| last720d | 2024-10-08 | 100 | 4858 | 630 | 3527 | 849 | 6781 |
-
-## Release 资产
-
-| 资产 | 大小 | 目标平台 |
-|------|-----:|----------|
-| [Cline_0.0.37_amd64.deb](https://github.com/cline/cline/releases/download/desktop-v0.0.37/Cline_0.0.37_amd64.deb) | 104.2 MiB | `runtime/deb/amd64` |
-| [Cline_0.0.37_amd64.deb.sig](https://github.com/cline/cline/releases/download/desktop-v0.0.37/Cline_0.0.37_amd64.deb.sig) | 412 B | `other` |
-| [Cline_0.0.37_universal.app.tar.gz](https://github.com/cline/cline/releases/download/desktop-v0.0.37/Cline_0.0.37_universal.app.tar.gz) | 125.6 MiB | `native/unknown` |
-| [Cline_0.0.37_universal.app.tar.gz.sig](https://github.com/cline/cline/releases/download/desktop-v0.0.37/Cline_0.0.37_universal.app.tar.gz.sig) | 404 B | `other` |
-| [Cline_0.0.37_universal.dmg](https://github.com/cline/cline/releases/download/desktop-v0.0.37/Cline_0.0.37_universal.dmg) | 125.7 MiB | `other` |
-| [Cline_0.0.37_x64-setup.exe](https://github.com/cline/cline/releases/download/desktop-v0.0.37/Cline_0.0.37_x64-setup.exe) | 89.4 MiB | `other` |
-| [Cline_0.0.37_x64-setup.exe.sig](https://github.com/cline/cline/releases/download/desktop-v0.0.37/Cline_0.0.37_x64-setup.exe.sig) | 416 B | `other` |
-| [Cline_0.0.37_x86_64.rpm](https://github.com/cline/cline/releases/download/desktop-v0.0.37/Cline_0.0.37_x86_64.rpm) | 104.2 MiB | `other` |
-| [Cline_0.0.37_x86_64.rpm.sig](https://github.com/cline/cline/releases/download/desktop-v0.0.37/Cline_0.0.37_x86_64.rpm.sig) | 416 B | `other` |
-| [latest.json](https://github.com/cline/cline/releases/download/desktop-v0.0.37/latest.json) | 3.7 KiB | `other` |
+| 30d | 2026-08-30 | 35 | 264 | 228 | 57 | 222 | 265 |
+| last60d | 2026-07-31 | 96 | 612 | 402 | 146 | 371 | 595 |
+| 90d | 2026-07-01 | 100 | 946 | 507 | 191 | 482 | 1017 |
+| last180d | 2026-04-02 | 100 | 1534 | 605 | 425 | 758 | 2029 |
+| 360d | 2025-10-04 | 100 | 2836 | 631 | 1382 | 843 | 3747 |
+| last720d | 2024-10-09 | 100 | 4874 | 631 | 3530 | 851 | 6797 |
 
 ## 改进这些数据
 
@@ -79,4 +63,4 @@ cline 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260928.yml` · 2026-09-28T06:18:48Z._
+_数据快照: `data/card/260929.yml` · 2026-09-29T06:43:36Z._
