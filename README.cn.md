@@ -14,12 +14,12 @@ x install cline
 
 ## 代码洞察
 
-合计: **941,493** 行代码（覆盖前 5 种语言、共 **3468** 个文件）。
+合计: **942,452** 行代码（覆盖前 5 种语言、共 **3468** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| TypeScript | 720,285 | 41,568 | 48,040 | 2484 |
-| Tsx | 170,586 | 4,760 | 14,237 | 747 |
+| TypeScript | 720,786 | 41,599 | 48,092 | 2484 |
+| Tsx | 171,044 | 4,788 | 14,252 | 747 |
 | Json | 32,478 | 0 | 16 | 162 |
 | JavaScript | 7,251 | 941 | 616 | 44 |
 | Css | 3,954 | 315 | 442 | 31 |
@@ -32,47 +32,47 @@ x install cline
 
 ## 发布
 
-- **最新版本**: `desktop-v0.0.41` (2026-10-02)
+- **最新版本**: `desktop-v0.0.43` (2026-10-02)
 - **最近提交**: 2026-10-02
 - **Release 含资产**: 14 个
 
 ## 流行度
 
-- **Star**: 69,694 · **Fork**: 7,586 · **开放 issue**: 4,789 · **贡献者**: 340
+- **Star**: 69,747 · **Fork**: 7,589 · **开放 issue**: 4,806 · **贡献者**: 340
 
 ## 累计统计
 
-- **发布数**: 444 · **已合并 PR**: 4911 · **开放 PR**: 659 · **已关闭 issue**: 3895 · **开放 issue**: 894 · **提交数**: 7512
+- **发布数**: 446 · **已合并 PR**: 4916 · **开放 PR**: 674 · **已关闭 issue**: 3900 · **开放 issue**: 906 · **提交数**: 7520
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-02 | 43 | 264 | 240 | 55 | 248 | 307 |
-| last60d | 2026-08-03 | 97 | 603 | 409 | 141 | 408 | 637 |
-| 90d | 2026-07-04 | 100 | 969 | 534 | 191 | 513 | 1059 |
-| last180d | 2026-04-05 | 100 | 1563 | 631 | 423 | 797 | 2071 |
-| 360d | 2025-10-07 | 100 | 2850 | 659 | 1375 | 886 | 3789 |
-| last720d | 2024-10-12 | 100 | 4905 | 659 | 3517 | 894 | 6660 |
+| 30d | 2026-09-03 | 41 | 260 | 243 | 55 | 254 | 315 |
+| last60d | 2026-08-04 | 99 | 577 | 423 | 134 | 418 | 645 |
+| 90d | 2026-07-05 | 100 | 969 | 547 | 191 | 526 | 1067 |
+| last180d | 2026-04-06 | 100 | 1564 | 645 | 422 | 807 | 2079 |
+| 360d | 2025-10-08 | 100 | 2842 | 674 | 1370 | 898 | 3797 |
+| last720d | 2024-10-13 | 100 | 4910 | 674 | 3513 | 906 | 6662 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [Cline_0.0.41_aarch64.rpm](https://github.com/cline/cline/releases/download/desktop-v0.0.41/Cline_0.0.41_aarch64.rpm) | 105.3 MiB | `other` |
-| [Cline_0.0.41_aarch64.rpm.sig](https://github.com/cline/cline/releases/download/desktop-v0.0.41/Cline_0.0.41_aarch64.rpm.sig) | 416 B | `other` |
-| [Cline_0.0.41_amd64.deb](https://github.com/cline/cline/releases/download/desktop-v0.0.41/Cline_0.0.41_amd64.deb) | 104.8 MiB | `runtime/deb/amd64` |
-| [Cline_0.0.41_amd64.deb.sig](https://github.com/cline/cline/releases/download/desktop-v0.0.41/Cline_0.0.41_amd64.deb.sig) | 412 B | `other` |
-| [Cline_0.0.41_arm64.deb](https://github.com/cline/cline/releases/download/desktop-v0.0.41/Cline_0.0.41_arm64.deb) | 105.3 MiB | `runtime/deb/arm64` |
-| [Cline_0.0.41_arm64.deb.sig](https://github.com/cline/cline/releases/download/desktop-v0.0.41/Cline_0.0.41_arm64.deb.sig) | 412 B | `other` |
-| [Cline_0.0.41_universal.app.tar.gz](https://github.com/cline/cline/releases/download/desktop-v0.0.41/Cline_0.0.41_universal.app.tar.gz) | 133.6 MiB | `native/unknown` |
-| [Cline_0.0.41_universal.app.tar.gz.sig](https://github.com/cline/cline/releases/download/desktop-v0.0.41/Cline_0.0.41_universal.app.tar.gz.sig) | 404 B | `other` |
-| [Cline_0.0.41_universal.dmg](https://github.com/cline/cline/releases/download/desktop-v0.0.41/Cline_0.0.41_universal.dmg) | 133.6 MiB | `other` |
-| [Cline_0.0.41_x64-setup.exe](https://github.com/cline/cline/releases/download/desktop-v0.0.41/Cline_0.0.41_x64-setup.exe) | 94.9 MiB | `other` |
-| [Cline_0.0.41_x64-setup.exe.sig](https://github.com/cline/cline/releases/download/desktop-v0.0.41/Cline_0.0.41_x64-setup.exe.sig) | 416 B | `other` |
-| [Cline_0.0.41_x86_64.rpm](https://github.com/cline/cline/releases/download/desktop-v0.0.41/Cline_0.0.41_x86_64.rpm) | 104.8 MiB | `other` |
-| [Cline_0.0.41_x86_64.rpm.sig](https://github.com/cline/cline/releases/download/desktop-v0.0.41/Cline_0.0.41_x86_64.rpm.sig) | 416 B | `other` |
-| [latest.json](https://github.com/cline/cline/releases/download/desktop-v0.0.41/latest.json) | 5.6 KiB | `other` |
+| [Cline_0.0.43_aarch64.rpm](https://github.com/cline/cline/releases/download/desktop-v0.0.43/Cline_0.0.43_aarch64.rpm) | 105.3 MiB | `other` |
+| [Cline_0.0.43_aarch64.rpm.sig](https://github.com/cline/cline/releases/download/desktop-v0.0.43/Cline_0.0.43_aarch64.rpm.sig) | 416 B | `other` |
+| [Cline_0.0.43_amd64.deb](https://github.com/cline/cline/releases/download/desktop-v0.0.43/Cline_0.0.43_amd64.deb) | 104.8 MiB | `runtime/deb/amd64` |
+| [Cline_0.0.43_amd64.deb.sig](https://github.com/cline/cline/releases/download/desktop-v0.0.43/Cline_0.0.43_amd64.deb.sig) | 412 B | `other` |
+| [Cline_0.0.43_arm64.deb](https://github.com/cline/cline/releases/download/desktop-v0.0.43/Cline_0.0.43_arm64.deb) | 105.3 MiB | `runtime/deb/arm64` |
+| [Cline_0.0.43_arm64.deb.sig](https://github.com/cline/cline/releases/download/desktop-v0.0.43/Cline_0.0.43_arm64.deb.sig) | 412 B | `other` |
+| [Cline_0.0.43_universal.app.tar.gz](https://github.com/cline/cline/releases/download/desktop-v0.0.43/Cline_0.0.43_universal.app.tar.gz) | 133.6 MiB | `native/unknown` |
+| [Cline_0.0.43_universal.app.tar.gz.sig](https://github.com/cline/cline/releases/download/desktop-v0.0.43/Cline_0.0.43_universal.app.tar.gz.sig) | 404 B | `other` |
+| [Cline_0.0.43_universal.dmg](https://github.com/cline/cline/releases/download/desktop-v0.0.43/Cline_0.0.43_universal.dmg) | 133.6 MiB | `other` |
+| [Cline_0.0.43_x64-setup.exe](https://github.com/cline/cline/releases/download/desktop-v0.0.43/Cline_0.0.43_x64-setup.exe) | 94.9 MiB | `other` |
+| [Cline_0.0.43_x64-setup.exe.sig](https://github.com/cline/cline/releases/download/desktop-v0.0.43/Cline_0.0.43_x64-setup.exe.sig) | 416 B | `other` |
+| [Cline_0.0.43_x86_64.rpm](https://github.com/cline/cline/releases/download/desktop-v0.0.43/Cline_0.0.43_x86_64.rpm) | 104.8 MiB | `other` |
+| [Cline_0.0.43_x86_64.rpm.sig](https://github.com/cline/cline/releases/download/desktop-v0.0.43/Cline_0.0.43_x86_64.rpm.sig) | 416 B | `other` |
+| [latest.json](https://github.com/cline/cline/releases/download/desktop-v0.0.43/latest.json) | 4.2 KiB | `other` |
 
 ## 改进这些数据
 
@@ -83,4 +83,4 @@ cline 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261002.yml` · 2026-10-02T06:29:53Z._
+_数据快照: `data/card/261003.yml` · 2026-10-03T06:16:31Z._
