@@ -38,22 +38,22 @@ Total: **942,452** lines of code across **3468** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 69,747 · **Forks**: 7,589 · **Open issues**: 4,806 · **Contributors**: 340
+- **Stars**: 69,806 · **Forks**: 7,598 · **Open issues**: 4,817 · **Contributors**: 340
 
 ## Totals (cumulative)
 
-- **Releases**: 446 · **Merged PRs**: 4916 · **Open PRs**: 674 · **Closed issues**: 3900 · **Open issues**: 906 · **Commits**: 7520
+- **Releases**: 446 · **Merged PRs**: 4916 · **Open PRs**: 679 · **Closed issues**: 3904 · **Open issues**: 913 · **Commits**: 7520
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-03 | 41 | 260 | 243 | 55 | 254 | 315 |
-| last60d | 2026-08-04 | 99 | 577 | 423 | 134 | 418 | 645 |
-| 90d | 2026-07-05 | 100 | 969 | 547 | 191 | 526 | 1067 |
-| last180d | 2026-04-06 | 100 | 1564 | 645 | 422 | 807 | 2079 |
-| 360d | 2025-10-08 | 100 | 2842 | 674 | 1370 | 898 | 3797 |
-| last720d | 2024-10-13 | 100 | 4910 | 674 | 3513 | 906 | 6662 |
+| 30d | 2026-09-04 | 39 | 237 | 243 | 54 | 252 | 315 |
+| last60d | 2026-08-05 | 99 | 564 | 420 | 133 | 421 | 645 |
+| 90d | 2026-07-06 | 100 | 964 | 552 | 191 | 531 | 1067 |
+| last180d | 2026-04-07 | 100 | 1563 | 650 | 419 | 815 | 2079 |
+| 360d | 2025-10-09 | 100 | 2831 | 679 | 1372 | 905 | 3797 |
+| last720d | 2024-10-14 | 100 | 4910 | 679 | 3511 | 913 | 6662 |
 
 ## Release assets
 
@@ -83,4 +83,4 @@ Install metadata for cline lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261003.yml` · 2026-10-03T06:16:30Z._
+_Snapshot: `data/card/261004.yml` · 2026-10-04T06:43:40Z._
