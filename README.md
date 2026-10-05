@@ -38,22 +38,22 @@ Total: **942,452** lines of code across **3468** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 69,806 · **Forks**: 7,598 · **Open issues**: 4,817 · **Contributors**: 340
+- **Stars**: 69,868 · **Forks**: 7,604 · **Open issues**: 4,828 · **Contributors**: 340
 
 ## Totals (cumulative)
 
-- **Releases**: 446 · **Merged PRs**: 4916 · **Open PRs**: 679 · **Closed issues**: 3904 · **Open issues**: 913 · **Commits**: 7520
+- **Releases**: 446 · **Merged PRs**: 4917 · **Open PRs**: 681 · **Closed issues**: 3911 · **Open issues**: 917 · **Commits**: 7520
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-04 | 39 | 237 | 243 | 54 | 252 | 315 |
-| last60d | 2026-08-05 | 99 | 564 | 420 | 133 | 421 | 645 |
-| 90d | 2026-07-06 | 100 | 964 | 552 | 191 | 531 | 1067 |
-| last180d | 2026-04-07 | 100 | 1563 | 650 | 419 | 815 | 2079 |
-| 360d | 2025-10-09 | 100 | 2831 | 679 | 1372 | 905 | 3797 |
-| last720d | 2024-10-14 | 100 | 4910 | 679 | 3511 | 913 | 6662 |
+| 30d | 2026-09-05 | 39 | 236 | 232 | 59 | 255 | 247 |
+| last60d | 2026-08-06 | 94 | 558 | 416 | 136 | 420 | 565 |
+| 90d | 2026-07-07 | 100 | 955 | 551 | 196 | 526 | 1017 |
+| last180d | 2026-04-08 | 100 | 1563 | 652 | 420 | 817 | 2016 |
+| 360d | 2025-10-10 | 100 | 2819 | 681 | 1376 | 908 | 3672 |
+| last720d | 2024-10-15 | 100 | 4911 | 681 | 3517 | 917 | 6662 |
 
 ## Release assets
 
@@ -83,4 +83,4 @@ Install metadata for cline lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261004.yml` · 2026-10-04T06:43:40Z._
+_Snapshot: `data/card/261005.yml` · 2026-10-05T06:38:38Z._
