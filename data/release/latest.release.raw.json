@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 136565763,
       "digest": "sha256:b950e249a9f4c7ebedde87f0d8e4aee37bc7ce93de67189b4c0716832595fd42",
-      "download_count": 63,
+      "download_count": 96,
       "created_at": "2026-10-08T06:50:31Z",
       "updated_at": "2026-10-08T06:50:37Z",
       "browser_download_url": "https://github.com/cline/cline/releases/download/desktop-v0.0.45/Cline_0.0.45_aarch64.rpm"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 416,
       "digest": "sha256:50154e008ab3cbce9bb33c229c8c7b17ff25b619bba27ced29b7a0cea3b9424e",
-      "download_count": 32,
+      "download_count": 42,
       "created_at": "2026-10-08T06:50:31Z",
       "updated_at": "2026-10-08T06:50:31Z",
       "browser_download_url": "https://github.com/cline/cline/releases/download/desktop-v0.0.45/Cline_0.0.45_aarch64.rpm.sig"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 136068296,
       "digest": "sha256:c0e62a4e9e7fce161bce2343748f77f0659003b97b6d757f14cfa38ffb222bd8",
-      "download_count": 514,
+      "download_count": 784,
       "created_at": "2026-10-08T06:50:31Z",
       "updated_at": "2026-10-08T06:50:36Z",
       "browser_download_url": "https://github.com/cline/cline/releases/download/desktop-v0.0.45/Cline_0.0.45_amd64.deb"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 412,
       "digest": "sha256:cefeab125499a4dabb005ad5631d4c687f3544cacdf936146d428cf514f0862a",
-      "download_count": 24,
+      "download_count": 32,
       "created_at": "2026-10-08T06:50:31Z",
       "updated_at": "2026-10-08T06:50:31Z",
       "browser_download_url": "https://github.com/cline/cline/releases/download/desktop-v0.0.45/Cline_0.0.45_amd64.deb.sig"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 136573824,
       "digest": "sha256:c574869ca485f96701c719f6d4e7af12278e18e5493ba974ac2c5f3c8b194db9",
-      "download_count": 53,
+      "download_count": 92,
       "created_at": "2026-10-08T06:50:31Z",
       "updated_at": "2026-10-08T06:50:37Z",
       "browser_download_url": "https://github.com/cline/cline/releases/download/desktop-v0.0.45/Cline_0.0.45_arm64.deb"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 412,
       "digest": "sha256:732fdc71105411945322e9d0809d0229e07ce76f0c4768675897a9c04c7755ec",
-      "download_count": 11,
+      "download_count": 13,
       "created_at": "2026-10-08T06:50:31Z",
       "updated_at": "2026-10-08T06:50:31Z",
       "browser_download_url": "https://github.com/cline/cline/releases/download/desktop-v0.0.45/Cline_0.0.45_arm64.deb.sig"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 167310688,
       "digest": "sha256:65d1902d9681fbaa4cca652b38855769b01f6fd60b6bca3a69f5ed14462366c0",
-      "download_count": 2085,
+      "download_count": 2734,
       "created_at": "2026-10-08T06:50:31Z",
       "updated_at": "2026-10-08T06:50:38Z",
       "browser_download_url": "https://github.com/cline/cline/releases/download/desktop-v0.0.45/Cline_0.0.45_universal.app.tar.gz"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 404,
       "digest": "sha256:8a6492c182cb6dff2ca17e8a8d41fffa96c817fb5a7127c74ef7e29a6d5ad693",
-      "download_count": 12,
+      "download_count": 15,
       "created_at": "2026-10-08T06:50:31Z",
       "updated_at": "2026-10-08T06:50:31Z",
       "browser_download_url": "https://github.com/cline/cline/releases/download/desktop-v0.0.45/Cline_0.0.45_universal.app.tar.gz.sig"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 165426924,
       "digest": "sha256:b7cd4666bc924268d51d133c0afb0a24d368c02fedccc533213eb8c8a1466ea0",
-      "download_count": 529,
+      "download_count": 943,
       "created_at": "2026-10-08T06:50:31Z",
       "updated_at": "2026-10-08T06:50:38Z",
       "browser_download_url": "https://github.com/cline/cline/releases/download/desktop-v0.0.45/Cline_0.0.45_universal.dmg"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 102301496,
       "digest": "sha256:9206afa7706783022391ee517b7a28a820985e830ff1f93ec9f347157015d590",
-      "download_count": 8244,
+      "download_count": 13045,
       "created_at": "2026-10-08T06:50:31Z",
       "updated_at": "2026-10-08T06:50:36Z",
       "browser_download_url": "https://github.com/cline/cline/releases/download/desktop-v0.0.45/Cline_0.0.45_x64-setup.exe"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 416,
       "digest": "sha256:967b830518e997b868d51377788bbe86691359879e6a0f0857dbebe1f5164c18",
-      "download_count": 9,
+      "download_count": 12,
       "created_at": "2026-10-08T06:50:31Z",
       "updated_at": "2026-10-08T06:50:31Z",
       "browser_download_url": "https://github.com/cline/cline/releases/download/desktop-v0.0.45/Cline_0.0.45_x64-setup.exe.sig"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 136049172,
       "digest": "sha256:98bed82634dcbaceae5d86bde355ffdcd390141bef2f0709f3b806771cb2e2c6",
-      "download_count": 100,
+      "download_count": 157,
       "created_at": "2026-10-08T06:50:31Z",
       "updated_at": "2026-10-08T06:50:37Z",
       "browser_download_url": "https://github.com/cline/cline/releases/download/desktop-v0.0.45/Cline_0.0.45_x86_64.rpm"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 416,
       "digest": "sha256:7f11bda303459efd070821da77fede1848dfafd8c09b7556139be2fca92c713d",
-      "download_count": 7,
+      "download_count": 8,
       "created_at": "2026-10-08T06:50:31Z",
       "updated_at": "2026-10-08T06:50:31Z",
       "browser_download_url": "https://github.com/cline/cline/releases/download/desktop-v0.0.45/Cline_0.0.45_x86_64.rpm.sig"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 5088,
       "digest": "sha256:45d2ec79d12594476e845bb51d64ff2778f3e43f122051c81254f6835963c15b",
-      "download_count": 17,
+      "download_count": 23,
       "created_at": "2026-10-08T06:50:31Z",
       "updated_at": "2026-10-08T06:50:31Z",
       "browser_download_url": "https://github.com/cline/cline/releases/download/desktop-v0.0.45/latest.json"
