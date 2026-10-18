@@ -38,22 +38,22 @@ Total: **988,740** lines of code across **3570** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 70,430 · **Forks**: 7,683 · **Open issues**: 4,906 · **Contributors**: 362
+- **Stars**: 70,484 · **Forks**: 7,697 · **Open issues**: 4,912 · **Contributors**: 362
 
 ## Totals (cumulative)
 
-- **Releases**: 464 · **Merged PRs**: 5020 · **Open PRs**: 737 · **Closed issues**: 3974 · **Open issues**: 932 · **Commits**: 7631
+- **Releases**: 464 · **Merged PRs**: 5020 · **Open PRs**: 747 · **Closed issues**: 3975 · **Open issues**: 937 · **Commits**: 7631
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-17 | 49 | 229 | 247 | 52 | 242 | 283 |
-| last60d | 2026-08-18 | 93 | 544 | 422 | 121 | 411 | 601 |
-| 90d | 2026-07-19 | 100 | 951 | 577 | 215 | 523 | 1054 |
-| last180d | 2026-04-20 | 100 | 1645 | 707 | 448 | 820 | 2078 |
-| 360d | 2025-10-22 | 100 | 2772 | 737 | 1380 | 923 | 3733 |
-| last720d | 2024-10-27 | 100 | 5014 | 737 | 3538 | 932 | 6739 |
+| 30d | 2026-09-18 | 46 | 218 | 252 | 46 | 241 | 283 |
+| last60d | 2026-08-19 | 91 | 520 | 416 | 118 | 407 | 601 |
+| 90d | 2026-07-20 | 100 | 943 | 585 | 213 | 524 | 1054 |
+| last180d | 2026-04-21 | 100 | 1641 | 717 | 446 | 821 | 2078 |
+| 360d | 2025-10-23 | 100 | 2766 | 747 | 1368 | 928 | 3733 |
+| last720d | 2024-10-28 | 100 | 5013 | 747 | 3535 | 937 | 6727 |
 
 ## Release assets
 
@@ -83,4 +83,4 @@ Install metadata for cline lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261017.yml` · 2026-10-17T05:09:25Z._
+_Snapshot: `data/card/261018.yml` · 2026-10-18T05:20:19Z._
