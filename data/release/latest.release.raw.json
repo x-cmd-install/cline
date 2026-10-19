@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 170910822,
       "digest": "sha256:d1bed427fda95e71eff13d5221928721d254e82b5ea8c3034c48b40c65127040",
-      "download_count": 35,
+      "download_count": 51,
       "created_at": "2026-10-17T04:34:22Z",
       "updated_at": "2026-10-17T04:34:28Z",
       "browser_download_url": "https://github.com/cline/cline/releases/download/desktop-v0.0.48/Cline_0.0.48_aarch64.rpm"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 416,
       "digest": "sha256:521f4946bf62c4d4e7dea684539d440e43dd2be25ac1293275029c8c5fa148db",
-      "download_count": 8,
+      "download_count": 15,
       "created_at": "2026-10-17T04:34:22Z",
       "updated_at": "2026-10-17T04:34:22Z",
       "browser_download_url": "https://github.com/cline/cline/releases/download/desktop-v0.0.48/Cline_0.0.48_aarch64.rpm.sig"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 170534396,
       "digest": "sha256:72cb599004b4cbba2643b0a0344ddde3fe8d8569b1f59de6f3d559561b42a520",
-      "download_count": 532,
+      "download_count": 840,
       "created_at": "2026-10-17T04:34:22Z",
       "updated_at": "2026-10-17T04:34:27Z",
       "browser_download_url": "https://github.com/cline/cline/releases/download/desktop-v0.0.48/Cline_0.0.48_amd64.deb"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 412,
       "digest": "sha256:54bc5de6d22c39325de532803e40072a56840edc174b3e6464e65839fd273058",
-      "download_count": 10,
+      "download_count": 19,
       "created_at": "2026-10-17T04:34:22Z",
       "updated_at": "2026-10-17T04:34:22Z",
       "browser_download_url": "https://github.com/cline/cline/releases/download/desktop-v0.0.48/Cline_0.0.48_amd64.deb.sig"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 170911988,
       "digest": "sha256:12c2334de42f82406f6250f1de22597cb5112082d1dd73e91eefba078ca223c1",
-      "download_count": 49,
+      "download_count": 107,
       "created_at": "2026-10-17T04:34:22Z",
       "updated_at": "2026-10-17T04:34:28Z",
       "browser_download_url": "https://github.com/cline/cline/releases/download/desktop-v0.0.48/Cline_0.0.48_arm64.deb"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 412,
       "digest": "sha256:1ebb02e3855915f6fa5068f6036811376d24d8a8ca3f6b21f48f259b5cb9ef17",
-      "download_count": 9,
+      "download_count": 16,
       "created_at": "2026-10-17T04:34:21Z",
       "updated_at": "2026-10-17T04:34:22Z",
       "browser_download_url": "https://github.com/cline/cline/releases/download/desktop-v0.0.48/Cline_0.0.48_arm64.deb.sig"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 197035057,
       "digest": "sha256:265ef14fe212c8ff0168edb5d455c2a17ab04b6b54e3cec63542531900c3701e",
-      "download_count": 1774,
+      "download_count": 2468,
       "created_at": "2026-10-17T04:34:22Z",
       "updated_at": "2026-10-17T04:34:28Z",
       "browser_download_url": "https://github.com/cline/cline/releases/download/desktop-v0.0.48/Cline_0.0.48_universal.app.tar.gz"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 404,
       "digest": "sha256:53c71beba9e543358b63e43304e4526944aca4e53208ce44c55f2285e3b21bfa",
-      "download_count": 8,
+      "download_count": 14,
       "created_at": "2026-10-17T04:34:22Z",
       "updated_at": "2026-10-17T04:34:22Z",
       "browser_download_url": "https://github.com/cline/cline/releases/download/desktop-v0.0.48/Cline_0.0.48_universal.app.tar.gz.sig"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 194606032,
       "digest": "sha256:1cd8431c9730f96a2bbe0902ecb4519cbd0ec1e8d93f3a9685eaf9cfbf673775",
-      "download_count": 462,
+      "download_count": 861,
       "created_at": "2026-10-17T04:34:22Z",
       "updated_at": "2026-10-17T04:34:29Z",
       "browser_download_url": "https://github.com/cline/cline/releases/download/desktop-v0.0.48/Cline_0.0.48_universal.dmg"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 121376560,
       "digest": "sha256:51dcc35b1c9f59fff8310ada9e888f465b667bd07a09036e88b61d83dab82901",
-      "download_count": 7428,
+      "download_count": 11872,
       "created_at": "2026-10-17T04:34:22Z",
       "updated_at": "2026-10-17T04:34:27Z",
       "browser_download_url": "https://github.com/cline/cline/releases/download/desktop-v0.0.48/Cline_0.0.48_x64-setup.exe"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 416,
       "digest": "sha256:870a6b07f0c79879aec2beff32ac6511128dc0ac8429b680637b9105b93436fa",
-      "download_count": 7,
+      "download_count": 14,
       "created_at": "2026-10-17T04:34:22Z",
       "updated_at": "2026-10-17T04:34:22Z",
       "browser_download_url": "https://github.com/cline/cline/releases/download/desktop-v0.0.48/Cline_0.0.48_x64-setup.exe.sig"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 170511445,
       "digest": "sha256:c553a5b41435c3516cb639bda09b9dcd0cd6ffd6b574c9528f31fc52c2f81310",
-      "download_count": 132,
+      "download_count": 250,
       "created_at": "2026-10-17T04:34:22Z",
       "updated_at": "2026-10-17T04:34:28Z",
       "browser_download_url": "https://github.com/cline/cline/releases/download/desktop-v0.0.48/Cline_0.0.48_x86_64.rpm"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 416,
       "digest": "sha256:454a21e3e19ef779bd3efc0f8fa7192fbfd50163c0bb8b769a6e383820a28189",
-      "download_count": 5,
+      "download_count": 9,
       "created_at": "2026-10-17T04:34:22Z",
       "updated_at": "2026-10-17T04:34:22Z",
       "browser_download_url": "https://github.com/cline/cline/releases/download/desktop-v0.0.48/Cline_0.0.48_x86_64.rpm.sig"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 4662,
       "digest": "sha256:644baeec4a6f41974d9ae2f182686d0e3bdb85d7fb5ad2d920bbb7360654e53a",
-      "download_count": 13,
+      "download_count": 23,
       "created_at": "2026-10-17T04:34:22Z",
       "updated_at": "2026-10-17T04:34:22Z",
       "browser_download_url": "https://github.com/cline/cline/releases/download/desktop-v0.0.48/latest.json"
@@ -543,5 +543,17 @@
   ],
   "tarball_url": "https://api.github.com/repos/cline/cline/tarball/desktop-v0.0.48",
   "zipball_url": "https://api.github.com/repos/cline/cline/zipball/desktop-v0.0.48",
-  "body": "\n- GPT-6 models (such as `gpt-6-sol` and `gpt-6.1-sol`) work on OpenAI and Azure OpenAI-compatible endpoints. Before, every request was rejected because Cline sent `max_tokens` instead of `max_completion_tokens`\n- The Cline provider's default model is Claude Sonnet 5.5 again, which is back at the top of Cline's recommended list\n- Refreshed the model catalog. Adds the CommandCode and Reflection providers. Default models change for 302.AI (Gemini 4 Argon), Eden AI and Prime Inference (Muse Spark Open), CoreWeave (Reflection Beam 1.0), NanoGPT, Pioneer (Nemotron 3.5 Super VL), and Scaleway (DeepSeek V4.1 Flash)\n\n**Full Changelog**: https://github.com/cline/cline/compare/desktop-v0.0.47...desktop-v0.0.48\n"
+  "body": "\n- GPT-6 models (such as `gpt-6-sol` and `gpt-6.1-sol`) work on OpenAI and Azure OpenAI-compatible endpoints. Before, every request was rejected because Cline sent `max_tokens` instead of `max_completion_tokens`\n- The Cline provider's default model is Claude Sonnet 5.5 again, which is back at the top of Cline's recommended list\n- Refreshed the model catalog. Adds the CommandCode and Reflection providers. Default models change for 302.AI (Gemini 4 Argon), Eden AI and Prime Inference (Muse Spark Open), CoreWeave (Reflection Beam 1.0), NanoGPT, Pioneer (Nemotron 3.5 Super VL), and Scaleway (DeepSeek V4.1 Flash)\n\n**Full Changelog**: https://github.com/cline/cline/compare/desktop-v0.0.47...desktop-v0.0.48\n",
+  "reactions": {
+    "url": "https://api.github.com/repos/cline/cline/releases/415584031/reactions",
+    "total_count": 2,
+    "+1": 1,
+    "-1": 0,
+    "laugh": 0,
+    "hooray": 0,
+    "confused": 0,
+    "heart": 1,
+    "rocket": 0,
+    "eyes": 0
+  }
 }
