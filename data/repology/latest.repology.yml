@@ -1,0 +1,18 @@
+- repo: homebrew
+  srcname: cline
+  visiblename: cline
+  version: 3.0.3
+  origversion: null
+  status: outdated
+  summary: AI-powered coding agent for complex work
+- repo: nix_unstable
+  srcname: cline
+  visiblename: cline
+  version: 3.0.71
+  origversion: null
+  status: newest
+  summary: Autonomous coding agent CLI for the terminal
+  maintainers:
+    - masumrezarock100@gmail.com
+  licenses:
+    - Apache-2.0
