@@ -8,7 +8,7 @@
 - repo: nix_unstable
   srcname: cline
   visiblename: cline
-  version: 3.0.71
+  version: 3.0.74
   origversion: null
   status: newest
   summary: Autonomous coding agent CLI for the terminal
