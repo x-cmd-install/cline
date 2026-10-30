@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 13908315,
       "digest": "sha256:d8ea4c3505052c48e7c7a5558e7213a53827b6ba1da7e56513c87d896df51c4d",
-      "download_count": 440,
+      "download_count": 614,
       "created_at": "2026-10-26T09:06:50Z",
       "updated_at": "2026-10-26T09:06:51Z",
       "browser_download_url": "https://github.com/cline/cline/releases/download/v4.1.26/cline-4.1.26.vsix"
