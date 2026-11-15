@@ -38,22 +38,22 @@ Total: **1,025,480** lines of code across **3743** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 71,609 · **Forks**: 7,921 · **Open issues**: 5,048 · **Contributors**: 375
+- **Stars**: 71,644 · **Forks**: 7,926 · **Open issues**: 5,053 · **Contributors**: 375
 
 ## Totals (cumulative)
 
-- **Releases**: 468 · **Merged PRs**: 5163 · **Open PRs**: 839 · **Closed issues**: 4109 · **Open issues**: 939 · **Commits**: 7767
+- **Releases**: 468 · **Merged PRs**: 5163 · **Open PRs**: 844 · **Closed issues**: 4113 · **Open issues**: 940 · **Commits**: 7767
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-15 | 11 | 130 | 176 | 19 | 131 | 145 |
-| last60d | 2026-09-15 | 57 | 390 | 393 | 100 | 358 | 452 |
-| 90d | 2026-08-16 | 97 | 712 | 551 | 181 | 509 | 769 |
-| last180d | 2026-05-18 | 100 | 1663 | 802 | 465 | 774 | 1845 |
-| 360d | 2025-11-19 | 100 | 2706 | 837 | 1328 | 922 | 3657 |
-| last720d | 2024-11-24 | 100 | 5151 | 839 | 3594 | 939 | 6835 |
+| 30d | 2026-10-16 | 11 | 118 | 175 | 19 | 132 | 145 |
+| last60d | 2026-09-16 | 54 | 379 | 390 | 97 | 360 | 452 |
+| 90d | 2026-08-17 | 97 | 700 | 550 | 179 | 510 | 769 |
+| last180d | 2026-05-19 | 100 | 1650 | 806 | 463 | 774 | 1845 |
+| 360d | 2025-11-20 | 100 | 2697 | 842 | 1320 | 923 | 3657 |
+| last720d | 2024-11-25 | 100 | 5151 | 844 | 3592 | 940 | 6835 |
 
 ## Release assets
 
@@ -79,4 +79,4 @@ Install metadata for cline lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261114.yml` · 2026-11-14T08:07:44Z._
+_Snapshot: `data/card/261115.yml` · 2026-11-15T07:40:26Z._
