@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 14420212,
       "digest": "sha256:62437813fc43e09b3c532e0bd50d924ad8625153db05b74d71a73ce87fe3754d",
-      "download_count": 23,
+      "download_count": 171,
       "created_at": "2026-11-21T06:05:05Z",
       "updated_at": "2026-11-21T06:05:06Z",
       "browser_download_url": "https://github.com/cline/cline/releases/download/v4.1.27/cline-4.1.27.vsix"
