@@ -38,22 +38,22 @@ Total: **1,081,023** lines of code across **3793** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 71,814 · **Forks**: 7,944 · **Open issues**: 5,078 · **Contributors**: 377
+- **Stars**: 71,842 · **Forks**: 7,951 · **Open issues**: 5,083 · **Contributors**: 377
 
 ## Totals (cumulative)
 
-- **Releases**: 472 · **Merged PRs**: 5176 · **Open PRs**: 870 · **Closed issues**: 4136 · **Open issues**: 942 · **Commits**: 7786
+- **Releases**: 472 · **Merged PRs**: 5176 · **Open PRs**: 877 · **Closed issues**: 4139 · **Open issues**: 944 · **Commits**: 7786
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-23 | 8 | 79 | 178 | 16 | 123 | 118 |
-| last60d | 2026-09-23 | 46 | 319 | 366 | 67 | 327 | 387 |
-| 90d | 2026-08-24 | 84 | 626 | 536 | 158 | 512 | 695 |
-| last180d | 2026-05-26 | 100 | 1617 | 824 | 452 | 769 | 1809 |
-| 360d | 2025-11-27 | 100 | 2666 | 868 | 1283 | 925 | 3630 |
-| last720d | 2024-12-02 | 100 | 5164 | 870 | 3606 | 942 | 6850 |
+| 30d | 2026-10-24 | 8 | 69 | 179 | 16 | 123 | 65 |
+| last60d | 2026-09-24 | 46 | 309 | 364 | 64 | 327 | 296 |
+| 90d | 2026-08-25 | 82 | 601 | 540 | 153 | 509 | 616 |
+| last180d | 2026-05-27 | 100 | 1612 | 830 | 450 | 769 | 1767 |
+| 360d | 2025-11-28 | 100 | 2664 | 875 | 1277 | 927 | 3569 |
+| last720d | 2024-12-03 | 100 | 5164 | 877 | 3606 | 944 | 6850 |
 
 ## Release assets
 
@@ -79,4 +79,4 @@ Install metadata for cline lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261122.yml` · 2026-11-22T07:41:39Z._
+_Snapshot: `data/card/261123.yml` · 2026-11-23T09:26:36Z._
