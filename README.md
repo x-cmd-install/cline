@@ -32,27 +32,34 @@ Total: **1,082,638** lines of code across **3786** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `cli-v3.0.76` (2026-11-26)
+- **Latest**: `v4.1.28` (2026-11-26)
 - **Last commit**: 2026-11-26
+- **Assets in release**: 1
 
 ## Popularity
 
-- **Stars**: 71,911 · **Forks**: 7,969 · **Open issues**: 5,097 · **Contributors**: 377
+- **Stars**: 71,939 · **Forks**: 7,976 · **Open issues**: 5,101 · **Contributors**: 377
 
 ## Totals (cumulative)
 
-- **Releases**: 474 · **Merged PRs**: 5181 · **Open PRs**: 885 · **Closed issues**: 4148 · **Open issues**: 949 · **Commits**: 7794
+- **Releases**: 476 · **Merged PRs**: 5181 · **Open PRs**: 880 · **Closed issues**: 4156 · **Open issues**: 945 · **Commits**: 7796
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-27 | 6 | 60 | 159 | 15 | 124 | 73 |
-| last60d | 2026-09-27 | 42 | 293 | 358 | 60 | 306 | 304 |
-| 90d | 2026-08-28 | 77 | 567 | 526 | 147 | 498 | 624 |
-| last180d | 2026-05-30 | 100 | 1595 | 836 | 448 | 769 | 1775 |
-| 360d | 2025-12-01 | 100 | 2646 | 883 | 1271 | 931 | 3577 |
-| last720d | 2024-12-06 | 100 | 5169 | 885 | 3613 | 947 | 6858 |
+| 30d | 2026-10-28 | 8 | 57 | 151 | 16 | 122 | 75 |
+| last60d | 2026-09-28 | 44 | 285 | 344 | 58 | 302 | 306 |
+| 90d | 2026-08-29 | 78 | 562 | 516 | 144 | 498 | 626 |
+| last180d | 2026-05-31 | 100 | 1594 | 830 | 455 | 761 | 1777 |
+| 360d | 2025-12-02 | 100 | 2626 | 877 | 1268 | 927 | 3579 |
+| last720d | 2024-12-07 | 100 | 5169 | 880 | 3621 | 943 | 6859 |
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [cline-4.1.28.vsix](https://github.com/cline/cline/releases/download/v4.1.28/cline-4.1.28.vsix) | 13.6 MiB | `other` |
 
 ## Improve this data
 
@@ -63,4 +70,4 @@ Install metadata for cline lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261126.yml` · 2026-11-26T09:16:36Z._
+_Snapshot: `data/card/261127.yml` · 2026-11-27T10:26:03Z._
