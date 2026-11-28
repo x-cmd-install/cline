@@ -1,0 +1,188 @@
+about:
+  description: "Autonomous coding agent as an SDK, IDE extension, or CLI assistant."
+  license: Apache-2.0
+  homepage: https://cline.bot
+  head: cbc7d14
+  archived: false
+  latestVersion: "v4.1.28"
+  latestRelease: "v4.1.28"
+  latestPrerelease: "desktop-v0.0.23-beta.1"
+  collectedAt: 2026-11-28T08:30:58Z
+timeline:
+  created: 2024-07-06
+  lastCommit: 2026-11-26
+  lastVersion: 2026-11-26
+  lastRelease: 2026-11-26
+  lastPrerelease: 2026-09-03
+popularity:
+  star: 71959
+  watcher: 292
+  fork: 7978
+  release: 476
+  contributor: 377
+  pullRequest: 8755
+  issue: 5105
+language:
+  TypeScript: 32641078
+  JavaScript: 297379
+  CSS: 207889
+  Rust: 143075
+  HTML: 35832
+  Shell: 26817
+  Python: 7735
+  PowerShell: 7486
+  NSIS: 3111
+totalBytes: 33370402
+recent:
+  last30d:
+    since: 2026-10-29
+    release: 8
+    mergedPR: 54
+    openPR: 149
+    closedIssue: 17
+    openIssue: 122
+    commit: 75
+  last60d:
+    since: 2026-09-29
+    release: 44
+    mergedPR: 266
+    openPR: 333
+    closedIssue: 56
+    openIssue: 294
+    commit: 306
+  last90d:
+    since: 2026-08-30
+    release: 78
+    mergedPR: 562
+    openPR: 520
+    closedIssue: 148
+    openIssue: 493
+    commit: 626
+  last180d:
+    since: 2026-06-01
+    release: 100
+    mergedPR: 1583
+    openPR: 834
+    closedIssue: 457
+    openIssue: 759
+    commit: 1777
+  last360d:
+    since: 2025-12-03
+    release: 100
+    mergedPR: 2616
+    openPR: 880
+    closedIssue: 1262
+    openIssue: 924
+    commit: 3579
+  last720d:
+    since: 2024-12-08
+    release: 100
+    mergedPR: 5169
+    openPR: 884
+    closedIssue: 3626
+    openIssue: 942
+    commit: 6859
+total:
+  release: 476
+  mergedPR: 5181
+  openPR: 884
+  closedIssue: 4161
+  openIssue: 944
+  commit: 7796
+---
+path: /home/runner/.x-repo/github.com/cline/cline
+collectedAt: 2026-11-28T08:31:30Z
+loc:
+  TypeScript:
+    code: 830212
+    comments: 45349
+    blanks: 51322
+    files: 2691
+  Tsx:
+    code: 196967
+    comments: 5447
+    blanks: 15467
+    files: 844
+  Json:
+    code: 34441
+    comments: 0
+    blanks: 16
+    files: 163
+  JavaScript:
+    code: 7247
+    comments: 942
+    blanks: 621
+    files: 46
+  Css:
+    code: 6147
+    comments: 368
+    blanks: 584
+    files: 42
+  Rust:
+    code: 3411
+    comments: 150
+    blanks: 260
+    files: 9
+  Protobuf:
+    code: 2791
+    comments: 509
+    blanks: 532
+    files: 25
+  Sh:
+    code: 480
+    comments: 163
+    blanks: 119
+    files: 16
+  Html:
+    code: 222
+    comments: 0
+    blanks: 13
+    files: 5
+  Python:
+    code: 213
+    comments: 18
+    blanks: 47
+    files: 8
+  Svg:
+    code: 183
+    comments: 0
+    blanks: 0
+    files: 24
+  Xml:
+    code: 117
+    comments: 30
+    blanks: 0
+    files: 7
+  PowerShell:
+    code: 109
+    comments: 37
+    blanks: 25
+    files: 2
+  Yaml:
+    code: 55
+    comments: 10
+    blanks: 13
+    files: 2
+  Toml:
+    code: 43
+    comments: 13
+    blanks: 9
+    files: 3
+  Markdown:
+    code: 0
+    comments: 13996
+    blanks: 4417
+    files: 104
+  Text:
+    code: 0
+    comments: 558
+    blanks: 133
+    files: 12
+total:
+  code: 1084980
+  comments: 67945
+  blanks: 73861
+  files: 4003
+---
+
+---

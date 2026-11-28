@@ -7,7 +7,7 @@ about:
   latestVersion: "v4.1.28"
   latestRelease: "v4.1.28"
   latestPrerelease: "desktop-v0.0.23-beta.1"
-  collectedAt: 2026-11-27T10:25:00Z
+  collectedAt: 2026-11-28T08:30:58Z
 timeline:
   created: 2024-07-06
   lastCommit: 2026-11-26
@@ -15,13 +15,13 @@ timeline:
   lastRelease: 2026-11-26
   lastPrerelease: 2026-09-03
 popularity:
-  star: 71939
+  star: 71959
   watcher: 292
-  fork: 7976
+  fork: 7978
   release: 476
   contributor: 377
-  pullRequest: 8751
-  issue: 5101
+  pullRequest: 8755
+  issue: 5105
 language:
   TypeScript: 32641078
   JavaScript: 297379
@@ -35,63 +35,63 @@ language:
 totalBytes: 33370402
 recent:
   last30d:
-    since: 2026-10-28
+    since: 2026-10-29
     release: 8
-    mergedPR: 57
-    openPR: 151
-    closedIssue: 16
+    mergedPR: 54
+    openPR: 149
+    closedIssue: 17
     openIssue: 122
     commit: 75
   last60d:
-    since: 2026-09-28
+    since: 2026-09-29
     release: 44
-    mergedPR: 285
-    openPR: 344
-    closedIssue: 58
-    openIssue: 302
+    mergedPR: 266
+    openPR: 333
+    closedIssue: 56
+    openIssue: 294
     commit: 306
   last90d:
-    since: 2026-08-29
+    since: 2026-08-30
     release: 78
     mergedPR: 562
-    openPR: 516
-    closedIssue: 144
-    openIssue: 498
+    openPR: 520
+    closedIssue: 148
+    openIssue: 493
     commit: 626
   last180d:
-    since: 2026-05-31
+    since: 2026-06-01
     release: 100
-    mergedPR: 1594
-    openPR: 830
-    closedIssue: 455
-    openIssue: 761
+    mergedPR: 1583
+    openPR: 834
+    closedIssue: 457
+    openIssue: 759
     commit: 1777
   last360d:
-    since: 2025-12-02
+    since: 2025-12-03
     release: 100
-    mergedPR: 2626
-    openPR: 877
-    closedIssue: 1268
-    openIssue: 927
+    mergedPR: 2616
+    openPR: 880
+    closedIssue: 1262
+    openIssue: 924
     commit: 3579
   last720d:
-    since: 2024-12-07
+    since: 2024-12-08
     release: 100
     mergedPR: 5169
-    openPR: 880
-    closedIssue: 3621
-    openIssue: 943
+    openPR: 884
+    closedIssue: 3626
+    openIssue: 942
     commit: 6859
 total:
   release: 476
   mergedPR: 5181
-  openPR: 880
-  closedIssue: 4156
-  openIssue: 945
+  openPR: 884
+  closedIssue: 4161
+  openIssue: 944
   commit: 7796
 ---
 path: /home/runner/.x-repo/github.com/cline/cline
-collectedAt: 2026-11-27T10:25:36Z
+collectedAt: 2026-11-28T08:31:30Z
 loc:
   TypeScript:
     code: 830212
@@ -186,4 +186,4 @@ total:
 ---
 
 ---
-{"id":459225065,"author":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOMSqWwc4bXzfp","tag_name":"v4.1.28","target_commitish":"main","name":"v4.1.28","draft":false,"immutable":false,"prerelease":false,"created_at":"2026-11-26T09:35:48Z","updated_at":"2026-11-26T09:57:51Z","published_at":"2026-11-26T09:57:49Z","assets":[{"id":795259971,"node_id":"RA_kwDOMSqWwc4vZrRD","name":"cline-4.1.28.vsix","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":14277755,"digest":"sha256:83b87f50bbe83b8192f3f19c2a6c69be12526a58adaf6dcbc6bb8a2d0e382582","download_count":203,"created_at":"2026-11-26T09:57:50Z","updated_at":"2026-11-26T09:57:51Z"}],"body":"\n### Changed\n\n- Refreshed the model catalog. The OpenAI provider no longer lists ids the upstream catalog marks deprecated, including `gpt-4o`, `gpt-4.1`, `gpt-5`, `gpt-5-mini`, `gpt-5.1`, `gpt-5.3-codex`, `o3` and `o3-pro`. `gpt-5.3-codex-spark` is no longer listed for ChatGPT subscriptions. Adds the Concentrate and Prima Labs providers.\n- The third-party license notices in the extension package now cover software that was missing from the list.\n- Internal telemetry cleanup.\n\n**Full Changelog**: https://github.com/cline/cline/compare/v4.1.27...v4.1.28\n"}
+{"id":459225065,"author":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOMSqWwc4bXzfp","tag_name":"v4.1.28","target_commitish":"main","name":"v4.1.28","draft":false,"immutable":false,"prerelease":false,"created_at":"2026-11-26T09:35:48Z","updated_at":"2026-11-26T09:57:51Z","published_at":"2026-11-26T09:57:49Z","assets":[{"id":795259971,"node_id":"RA_kwDOMSqWwc4vZrRD","name":"cline-4.1.28.vsix","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":14277755,"digest":"sha256:83b87f50bbe83b8192f3f19c2a6c69be12526a58adaf6dcbc6bb8a2d0e382582","download_count":360,"created_at":"2026-11-26T09:57:50Z","updated_at":"2026-11-26T09:57:51Z"}],"body":"\n### Changed\n\n- Refreshed the model catalog. The OpenAI provider no longer lists ids the upstream catalog marks deprecated, including `gpt-4o`, `gpt-4.1`, `gpt-5`, `gpt-5-mini`, `gpt-5.1`, `gpt-5.3-codex`, `o3` and `o3-pro`. `gpt-5.3-codex-spark` is no longer listed for ChatGPT subscriptions. Adds the Concentrate and Prima Labs providers.\n- The third-party license notices in the extension package now cover software that was missing from the list.\n- Internal telemetry cleanup.\n\n**Full Changelog**: https://github.com/cline/cline/compare/v4.1.27...v4.1.28\n"}
